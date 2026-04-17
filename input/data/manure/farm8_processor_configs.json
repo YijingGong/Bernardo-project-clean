@@ -1,0 +1,67 @@
+{
+  "anaerobic_digester": [
+    
+  ],
+  "handler": [
+    {
+      "name": "growing_manual_scraper",
+      "processor_type": "ManualScraper",
+      "cleaning_water_use_amount": 0.0
+    },
+    {
+      "name": "lac_skid_steer",
+      "processor_type": "ManualScraper",
+      "cleaning_water_use_amount": 0.0
+    },
+    {
+      "name": "parlor_cleaning_handler",
+      "processor_type": "ParlorCleaningHandler",
+      "cleaning_water_use_amount": 189.0,
+      "cleaning_water_recycle_fraction": 0.8,
+      "use_parlor_flush": true
+    }
+  ],
+  "separator": [
+    {
+      "name": "screw_press_1",
+      "processor_type": "ScrewPress",
+      "separated_solids_dry_matter": 0.35,
+      "total_solids_efficiency": 0.25,
+      "volatile_solids_efficiency": 0.30,
+      "nitrogen_efficiency": 0.30,
+      "ammoniacal_nitrogen_efficiency": 0.10,
+      "phosphorus_efficiency": 0.20,
+      "potassium_efficiency": 0.23,
+      "ash_efficiency": 0.20
+    }
+  ],
+  "storage": [
+    {
+      "name": "slurry_storage_outdoor_lac",
+      "processor_type": "SlurryStorageOutdoor",
+      "capacity": 1e10,
+      "cover": "no_crust_or_cover",
+      "storage_time_period": 180,
+      "surface_area": 615
+    },{
+      "name": "slurry_storage_outdoor_growing",
+      "processor_type": "SlurryStorageOutdoor",
+      "capacity": 1e10,
+      "cover": "crust",
+      "storage_time_period": 180,
+      "surface_area": 615
+    },
+    {
+      "name": "calf_bedded_pack",
+      "processor_type": "BeddedPack",
+      "storage_time_period": 30,
+      "is_mixed": false
+    },
+    {
+      "name": "dry_cow_compost_bedded_pack",
+      "processor_type": "BeddedPack",
+      "storage_time_period": 365,
+      "is_mixed": true
+    }
+  ]
+}

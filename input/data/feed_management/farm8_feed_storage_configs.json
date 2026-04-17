@@ -1,0 +1,54 @@
+{
+  "grain_storage": [
+    
+  ],
+  "silage_storage": [
+    
+    {
+      "name": "corn_silage_storage_1",
+      "crop_name": "corn_silage",
+      "field_names":  ["field Alfalfa 2022"],
+      "storage_type": "Bunker",
+      "initial_storage_dry_matter": 0.35,
+      "rufas_id": 50,
+      "capacity": 1e10,
+      "size": 0.0
+    },{
+      "name": "corn_silage_storage_2",
+      "crop_name": "corn_silage",
+      "field_names": ["field Corn 2022"],
+      "storage_type": "Bunker",
+      "initial_storage_dry_matter": 0.35,
+      "rufas_id": 51,
+      "capacity": 1e10,
+      "size": 0.0
+    }
+    
+  ],
+  "baleage_storage": [
+    {
+      "name": "alfalfa_baleage_storage_1",
+      "crop_name": "alfalfa_baleage",
+      "field_names":  ["field Alfalfa 2022"],
+      "storage_type": "Baleage",
+      "initial_storage_dry_matter": 0.5,
+      "post_wilting_moisture_percentage": 45,
+      "rufas_id": 104,
+      "capacity": 1e10,
+      "bale_density": 200
+    },{
+      "name": "alfalfa_baleage_storage_2",
+      "crop_name": "alfalfa_baleage",
+      "field_names":  ["field Corn 2022"],
+      "storage_type": "Baleage",
+      "initial_storage_dry_matter": 0.5,
+      "post_wilting_moisture_percentage": 45,
+      "rufas_id": 110,
+      "capacity": 1e10,
+      "bale_density": 200
+    }
+  ],
+  "hay_storage": [
+   
+  ]
+}

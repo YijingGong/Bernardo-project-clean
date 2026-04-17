@@ -1,0 +1,14 @@
+{
+  "parallel_workers": 1,
+  "tasks": [
+    {
+      "task_type": "SIMULATION_MULTI_RUN",
+      "metadata_file_path": "input/metadata/farm8_wcrops_metadata_cv_eee_LFD.json",
+      "output_prefix": "Farm8_LFD",
+      "log_verbosity": "errors",
+      "random_seed": 42,
+      "multi_run_counts": 4
+      
+    }
+]
+}
