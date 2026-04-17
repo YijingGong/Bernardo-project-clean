@@ -1,0 +1,23 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "TaskManager.check_dependencies.Missing dependency": {
+    "info_maps": [
+      {
+        "timestamp": "17-Apr-2026_Fri_17-24-06.985305"
+      }
+    ],
+    "values": [
+      "Required package 'flake8' is not installed. We suggest running 'pip install .' to install all dependencies at required minimum levels."
+    ]
+  },
+  "No caller class.main.Dumping all logs from main.py because of error '[ERROR] Required package 'flake8' is not installed.'": {
+    "info_maps": [
+      {
+        "timestamp": "17-Apr-2026_Fri_17-24-06.987260"
+      }
+    ],
+    "values": [
+      "This terminal error occurred during runtime. Traceback (most recent call last):\n  File \"/Users/jiong/anaconda3/envs/rufas2026/lib/python3.12/importlib/metadata/__init__.py\", line 397, in from_name\n    return next(cls.discover(name=name))\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nStopIteration\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/Users/jiong/Documents/Bernardo-project-clean/RUFAS/task_manager.py\", line 260, in check_dependencies\n    installed_version = get_installed_version(package_name)\n                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/jiong/anaconda3/envs/rufas2026/lib/python3.12/importlib/metadata/__init__.py\", line 889, in version\n    return distribution(distribution_name).version\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/jiong/anaconda3/envs/rufas2026/lib/python3.12/importlib/metadata/__init__.py\", line 862, in distribution\n    return Distribution.from_name(distribution_name)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/jiong/anaconda3/envs/rufas2026/lib/python3.12/importlib/metadata/__init__.py\", line 399, in from_name\n    raise PackageNotFoundError(name)\nimportlib.metadata.PackageNotFoundError: No package metadata was found for flake8\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/Users/jiong/Documents/Bernardo-project-clean/main.py\", line 23, in main\n    task_manager.start(\n  File \"/Users/jiong/Documents/Bernardo-project-clean/RUFAS/task_manager.py\", line 125, in start\n    self.check_dependencies()\n  File \"/Users/jiong/Documents/Bernardo-project-clean/RUFAS/task_manager.py\", line 268, in check_dependencies\n    raise RuntimeError(f\"[ERROR] Required package '{package_name}' is not installed.\") from e\nRuntimeError: [ERROR] Required package 'flake8' is not installed.\n"
+    ]
+  }
+}
