@@ -1,0 +1,42 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "DataValidator._fix_data.Validation: invalid data not able to be fixed": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329863"
+      }
+    ],
+    "values": [
+      "Variable: 'hay_storage.0.storage_type' has invalid value: ProtectedIndoors, and cannot be changed to a default value. Violates properties defined in metadata properties section 'feed_storage_configurations'."
+    ]
+  },
+  "DataValidator.validate_data_by_type.Validation: invalid input data not able to be fixed": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329929"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329958"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329981"
+      }
+    ],
+    "values": [
+      "Variable: 'hay_storage.[0].storage_type' has invalid or missing values and failed to fix. Please check the inputs.",
+      "Variable: 'hay_storage.[0]' has invalid or missing values and its data type is not fixable. Please check the inputs.",
+      "Variable: 'hay_storage' has invalid or missing values and its data type is not fixable. Please check the inputs."
+    ]
+  },
+  "TaskManager.task.No task run": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "17-Dec-2025_Wed_13-35-10.360587"
+      }
+    ],
+    "values": [
+      "Data not valid for farm9_test_run, task not run"
+    ]
+  }
+}

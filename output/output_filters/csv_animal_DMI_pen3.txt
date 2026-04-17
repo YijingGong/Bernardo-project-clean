@@ -1,0 +1,3 @@
+AnimalModuleReporter.report_daily_ration_per_pen.ration_daily_feed_totals_for_pen_3_LAC_COW.*
+AnimalModuleReporter.report_nutrient_amounts.ration_nutrient_amount_for_LAC_COW_PEN_3.*
+AnimalModuleReporter.report_herd_statistics_data.simulation_day.*

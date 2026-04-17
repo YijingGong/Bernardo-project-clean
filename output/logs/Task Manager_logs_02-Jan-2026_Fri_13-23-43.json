@@ -1,0 +1,89 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "OutputManager.create_directory.Attempting to create a new directory.": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_13-23-43.153130"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_13-23-43.193654"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_13-23-43.193709"
+      }
+    ],
+    "values": [
+      "Attempting to create a new directory at output.",
+      "Attempting to create a new directory at output/logs.",
+      "Attempting to create a new directory at output/logs."
+    ]
+  },
+  "OutputManager.create_directory.Directory successfully created.": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_13-23-43.153197"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_13-23-43.193685"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_13-23-43.193729"
+      }
+    ],
+    "values": [
+      "Created a new directory at output.",
+      "Created a new directory at output/logs.",
+      "Created a new directory at output/logs."
+    ]
+  },
+  "TaskManager.start.Task Manager Start": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_13-23-43.191997"
+      }
+    ],
+    "values": [
+      "Task Manager Started."
+    ]
+  },
+  "InputManager._load_metadata.load_metadata_attempt": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_13-23-43.192075"
+      }
+    ],
+    "values": [
+      "Attempting to load metadata from input/task_manager_metadata.json."
+    ]
+  },
+  "OutputManager._list_to_file_txt.save_txt_file_try": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_13-23-43.193765"
+      }
+    ],
+    "values": [
+      "Attempting to save to output/logs/Task Manager_variable_names_02-Jan-2026_Fri_13-23-43.txt."
+    ]
+  },
+  "OutputManager._list_to_file_txt.save_txt_file_success": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_13-23-43.194612"
+      }
+    ],
+    "values": [
+      "Successfully saved to output/logs/Task Manager_variable_names_02-Jan-2026_Fri_13-23-43.txt."
+    ]
+  },
+  "OutputManager.dict_to_file_json.save_dict_file_try": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_13-23-43.194706"
+      }
+    ],
+    "values": [
+      "Attempting to save to output/logs/Task Manager_logs_02-Jan-2026_Fri_13-23-43.json."
+    ]
+  }
+}

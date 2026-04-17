@@ -1,0 +1,2 @@
+EmissionsEstimator.calculate_purchased_feed_emissions.*
+EmissionsEstimator._report_daily_farmgrown_feed_fed_emissions_and_resources.*

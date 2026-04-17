@@ -1,0 +1,346 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "OutputManager.create_directory.Attempting to create a new directory.": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.073938"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-10-27.485287"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-10-27.489934"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-10-27.490863"
+      }
+    ],
+    "values": [
+      "Attempting to create a new directory at output.",
+      "Attempting to create a new directory at output/logs.",
+      "Attempting to create a new directory at output/logs.",
+      "Attempting to create a new directory at output/logs."
+    ]
+  },
+  "OutputManager.create_directory.Directory successfully created.": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.074251"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-10-27.485552"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-10-27.490276"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-10-27.490895"
+      }
+    ],
+    "values": [
+      "Created a new directory at output.",
+      "Created a new directory at output/logs.",
+      "Created a new directory at output/logs.",
+      "Created a new directory at output/logs."
+    ]
+  },
+  "TaskManager.start.Task Manager Start": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.130390"
+      }
+    ],
+    "values": [
+      "Task Manager Started."
+    ]
+  },
+  "InputManager._load_metadata.load_metadata_attempt": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.130518"
+      }
+    ],
+    "values": [
+      "Attempting to load metadata from input/task_manager_metadata.json."
+    ]
+  },
+  "InputManager._load_metadata.load_metadata_success": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.134814"
+      }
+    ],
+    "values": [
+      "Successfully loaded metadata from input/task_manager_metadata.json"
+    ]
+  },
+  "InputManager._load_properties.load_properties_attempt": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.135049"
+      }
+    ],
+    "values": [
+      "Attempting to load properties from ['input/metadata/properties/tasks_properties.json']"
+    ]
+  },
+  "InputManager._load_data_from_json.open_json_file": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.135108"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.138553"
+      }
+    ],
+    "values": [
+      "Attempting to open input/metadata/properties/tasks_properties.json.",
+      "Attempting to open input/data/tasks/example_freestall_task.json."
+    ]
+  },
+  "InputManager._load_data_from_json.load_data_successful": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.136579"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.139432"
+      }
+    ],
+    "values": [
+      "Successfully loaded data from input/metadata/properties/tasks_properties.json.",
+      "Successfully loaded data from input/data/tasks/example_freestall_task.json."
+    ]
+  },
+  "InputManager._load_properties.load_properties_success": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.136653"
+      }
+    ],
+    "values": [
+      "Successfully loaded properties from ['input/metadata/properties/tasks_properties.json']"
+    ]
+  },
+  "DataValidator.validate_metadata.Metadata Validation": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.140132"
+      }
+    ],
+    "values": [
+      "Top level metadata is valid."
+    ]
+  },
+  "DataValidator.validate_properties.Metadata properties depth": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.140158"
+      }
+    ],
+    "values": [
+      "Max depth of metadata properties is 6"
+    ]
+  },
+  "DataValidator.validate_properties.Metadata properties path": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.140175"
+      }
+    ],
+    "values": [
+      "Deepest path of metadata properties is ['tasks_properties', 'tasks', 'properties', 'SA_input_variables', 'properties', 'data_type']"
+    ]
+  },
+  "OutputManager._list_filter_files_in_dir.search_path_for_filenames_try": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.141715"
+      }
+    ],
+    "values": [
+      "Attempting to search in output/output_filters."
+    ]
+  },
+  "OutputManager._list_filter_files_in_dir.search_path_for_filenames_success": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.141946"
+      }
+    ],
+    "values": [
+      "Successfully searched in output/output_filters and found 5 filter files."
+    ]
+  },
+  "OutputManager._load_filter_file_content.open_filter_file": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.141981"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.142589"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.142924"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.143320"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.143657"
+      }
+    ],
+    "values": [
+      "Attempting to open output/output_filters/csv_daily_herd_statistics.txt.",
+      "Attempting to open output/output_filters/csv_manure.txt.",
+      "Attempting to open output/output_filters/csv_herd_genetics.txt.",
+      "Attempting to open output/output_filters/csv_individual_milk.txt.",
+      "Attempting to open output/output_filters/csv_daily_population.txt."
+    ]
+  },
+  "OutputManager._load_filter_file_content.text_file_load_log": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.142530"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.142873"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.143253"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.143611"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.143999"
+      }
+    ],
+    "values": [
+      "Successfully opened output/output_filters/csv_daily_herd_statistics.txt.",
+      "Successfully opened output/output_filters/csv_manure.txt.",
+      "Successfully opened output/output_filters/csv_herd_genetics.txt.",
+      "Successfully opened output/output_filters/csv_individual_milk.txt.",
+      "Successfully opened output/output_filters/csv_daily_population.txt."
+    ]
+  },
+  "OutputManager.validate_filter_content.Filter validations skipped.": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.142553"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.142891"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.143283"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.143629"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.144018"
+      }
+    ],
+    "values": [
+      "Filter validation is not supported forcsv_daily_herd_statistics.txt.",
+      "Filter validation is not supported forcsv_manure.txt.",
+      "Filter validation is not supported forcsv_herd_genetics.txt.",
+      "Filter validation is not supported forcsv_individual_milk.txt.",
+      "Filter validation is not supported forcsv_daily_population.txt."
+    ]
+  },
+  "TaskManager.start.Task Manager workers": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-54.144033"
+      }
+    ],
+    "values": [
+      "Task Manager is going to run 4 in parallel."
+    ]
+  },
+  "TaskManager.start.Task Manager parsed tasks": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-55.151152"
+      }
+    ],
+    "values": [
+      "Parsed 1 tasks args."
+    ]
+  },
+  "TaskManager.start.Task Manager expanded tasks": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-07-55.151313"
+      }
+    ],
+    "values": [
+      "Expanded task args to 1. Starting the tasks..."
+    ]
+  },
+  "TaskManager.handle_post_processing.Validation counts": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "06-Mar-2026_Fri_12-10-27.479845"
+      }
+    ],
+    "values": [
+      "{'valid_elements': 8, 'invalid_elements': 0, 'fixed_elements': 30, 'total_elements': 38}"
+    ]
+  },
+  "OutputManager.dict_to_file_json.save_dict_file_try": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-10-27.485995"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-10-27.490611"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-10-27.492196"
+      }
+    ],
+    "values": [
+      "Attempting to save to output/logs/Task Manager_InputManager_get_data_log_06-Mar-2026_Fri_12-10-27.json.",
+      "Attempting to save to output/logs/Task Manager_InputManager_delete_data_log_06-Mar-2026_Fri_12-10-27.json.",
+      "Attempting to save to output/logs/Task Manager_logs_06-Mar-2026_Fri_12-10-27.json."
+    ]
+  },
+  "OutputManager.dict_to_file_json.save_dict_file_success": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-10-27.489786"
+      },
+      {
+        "timestamp": "06-Mar-2026_Fri_12-10-27.490796"
+      }
+    ],
+    "values": [
+      "Successfully saved to output/logs/Task Manager_InputManager_get_data_log_06-Mar-2026_Fri_12-10-27.json.",
+      "Successfully saved to output/logs/Task Manager_InputManager_delete_data_log_06-Mar-2026_Fri_12-10-27.json."
+    ]
+  },
+  "OutputManager._list_to_file_txt.save_txt_file_try": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-10-27.491623"
+      }
+    ],
+    "values": [
+      "Attempting to save to output/logs/Task Manager_variable_names_06-Mar-2026_Fri_12-10-27.txt."
+    ]
+  },
+  "OutputManager._list_to_file_txt.save_txt_file_success": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-10-27.492041"
+      }
+    ],
+    "values": [
+      "Successfully saved to output/logs/Task Manager_variable_names_06-Mar-2026_Fri_12-10-27.txt."
+    ]
+  }
+}

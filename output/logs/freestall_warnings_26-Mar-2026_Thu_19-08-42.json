@@ -1,0 +1,833 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "DataValidator._log_missing_data.Validation: key not found in input data -- data not required upon initialization": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711213"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711235"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711250"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711262"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711276"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711290"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711306"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711318"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711330"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711348"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711398"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711449"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711497"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711545"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711596"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711646"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711697"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711744"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711762"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711774"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711790"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711802"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711814"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711826"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711840"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711860"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711875"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711888"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711899"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711911"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711928"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711954"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711968"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711986"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.712003"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.712015"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.712027"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.712042"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.712056"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.712069"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.712081"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.712097"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.712119"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.712132"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.712144"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.712165"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.712182"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.712196"
+      }
+    ],
+    "values": [
+      "Key minutes_away_for_milking not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key first_parlor_processor not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key parlor_stream_name not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key minutes_away_for_milking not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key first_parlor_processor not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key parlor_stream_name not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key minutes_away_for_milking not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key first_parlor_processor not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key parlor_stream_name not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cleaning_water_recycle_fraction not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key use_parlor_flush not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cleaning_water_recycle_fraction not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key use_parlor_flush not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cleaning_water_recycle_fraction not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key use_parlor_flush not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cleaning_water_recycle_fraction not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key use_parlor_flush not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key capacity not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cover not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key surface_area not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key capacity not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cover not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key surface_area not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key capacity not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cover not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key surface_area not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key capacity not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cover not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key surface_area not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key capacity not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cover not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key storage_time_period not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key surface_area not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None."
+    ]
+  },
+  "DataValidator._number_type_validator.Validation: value is not a number": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711360"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711461"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711557"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711660"
+      }
+    ],
+    "values": [
+      "Variable: 'handler.[0].cleaning_water_recycle_fraction' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[1].cleaning_water_recycle_fraction' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[2].cleaning_water_recycle_fraction' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[3].cleaning_water_recycle_fraction' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'manure_management_properties'."
+    ]
+  },
+  "DataValidator._fix_data.Validation: invalid data found": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711373"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711422"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711473"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711522"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711570"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711621"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711673"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711721"
+      }
+    ],
+    "values": [
+      "Variable: 'handler.0.cleaning_water_recycle_fraction' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.0.use_parlor_flush' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.1.cleaning_water_recycle_fraction' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.1.use_parlor_flush' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.2.cleaning_water_recycle_fraction' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.2.use_parlor_flush' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.3.cleaning_water_recycle_fraction' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.3.use_parlor_flush' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'."
+    ]
+  },
+  "DataValidator._fix_data.Validation: data fixed": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711386"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711437"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711485"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711533"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711583"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711634"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711685"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711732"
+      }
+    ],
+    "values": [
+      "Invalid data fixed: 'handler.0.cleaning_water_recycle_fraction' value changed from None to 0.8. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.0.use_parlor_flush' value changed from None to False. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.1.cleaning_water_recycle_fraction' value changed from None to 0.8. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.1.use_parlor_flush' value changed from None to False. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.2.cleaning_water_recycle_fraction' value changed from None to 0.8. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.2.use_parlor_flush' value changed from None to False. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.3.cleaning_water_recycle_fraction' value changed from None to 0.8. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.3.use_parlor_flush' value changed from None to False. Fix enabled by default value specified in 'manure_management_properties'."
+    ]
+  },
+  "DataValidator._bool_type_validator.Validation: bool variable is not a bool": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711410"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711509"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711608"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711709"
+      }
+    ],
+    "values": [
+      "Variable: 'handler.[0].use_parlor_flush' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[1].use_parlor_flush' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[2].use_parlor_flush' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[3].use_parlor_flush' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'manure_management_properties'."
+    ]
+  },
+  "OutputManager._list_filter_files_in_dir.invalid filter file prefix": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.772589"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.772625"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.772645"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.772662"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.772678"
+      }
+    ],
+    "values": [
+      "_csv_individual_genetics_history.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_csv_all_variables.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_report_LC.json prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_csv_sold_animal_genetics_history.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_csv_milk_production.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']"
+    ]
+  },
+  "LactationCurve._get_year_adjustments.Lactation curve adjustments not available for simulation ending in 2019": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.781091"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-39.977473"
+      }
+    ],
+    "values": [
+      "Using adjustments for 2016.",
+      "Using adjustments for 2016."
+    ]
+  },
+  "HerdFactory._random_sample_with_replacement_by_type.Missing cows_parity_5_milking animal population file": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-39.077790"
+      }
+    ],
+    "values": [
+      "No animals in group cows_parity_5_milking found in animal population file. Generating a new herd recommended.Full error: list index out of range"
+    ]
+  },
+  "HerdFactory._random_sample_with_replacement_by_type.Missing cows_parity_5_not_milking animal population file": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-39.139185"
+      }
+    ],
+    "values": [
+      "No animals in group cows_parity_5_not_milking found in animal population file. Generating a new herd recommended.Full error: list index out of range"
+    ]
+  },
+  "FeedManager._create_all_storages.Storage RuFaS ID Warning": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-39.975825"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-39.975913"
+      }
+    ],
+    "values": [
+      "Storage 'corn_silage_storage_1' has a RuFaS ID '51' that is not mapped to any feed listed in the available feeds. This storage will not be used for feeding.",
+      "Storage 'alfalfa_hay_storage_2' has a RuFaS ID '108' that is not mapped to any feed listed in the available feeds. This storage will not be used for feeding."
+    ]
+  },
+  "EmissionsEstimator.check_available_purchased_feed_data.Missing Purchased Feed Emissions Data": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-40.313595"
+      }
+    ],
+    "values": [
+      "Missing emissions data for RuFaS feed IDs: 216, 301. These feeds will be omitted from purchased feed emissions estimations."
+    ]
+  },
+  "EmissionsEstimator.check_available_purchased_feed_data.Missing Land Use Change Purchased Feed Emissions Data": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-40.313679"
+      }
+    ],
+    "values": [
+      "Missing land use change emissions data for RuFaS feed IDs: 216, 301. These feeds will be omitted from land use change purchased feed emissions estimations."
+    ]
+  },
+  "Animal.update_genetic_history.Duplicate Genetic History Entry": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.111322"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.111451"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.111520"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.111582"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.111643"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.111703"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.111760"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.111813"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.111900"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.111974"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.112039"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.112105"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.112168"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.112230"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.112291"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.112352"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.112412"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.112473"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.112533"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.112670"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.112733"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.112794"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.112854"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.112914"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.112975"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.113034"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.113102"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.113162"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.113222"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.113288"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.113351"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.113414"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.113473"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.113534"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.113598"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.113663"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.113723"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.113782"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.113843"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.113902"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.113961"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.114021"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.114084"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.114155"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.114220"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.114280"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.114339"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.114401"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.114460"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.114520"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.114582"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.114641"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.114751"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.114832"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.114917"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.115002"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.115094"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.115183"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.115265"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.115347"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.115425"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.115505"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.115586"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.115665"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.115747"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.115829"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.115912"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.115997"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.116076"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.116160"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.116239"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.116316"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.116397"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.116477"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.116554"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.116632"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.116738"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.116820"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.116903"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.116983"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.117066"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.117145"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.117223"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.124767"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.124912"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.125006"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.125088"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.125168"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.125251"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.125329"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.125405"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.125475"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.125545"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.125617"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.125686"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.125884"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.126067"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.126172"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.126275"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.126380"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.126478"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.126578"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.126675"
+      }
+    ],
+    "values": [
+      "Animal 12338 already has a genetic history entry on day 0.",
+      "Animal 12339 already has a genetic history entry on day 0.",
+      "Animal 12340 already has a genetic history entry on day 0.",
+      "Animal 12341 already has a genetic history entry on day 0.",
+      "Animal 12342 already has a genetic history entry on day 0.",
+      "Animal 12343 already has a genetic history entry on day 0.",
+      "Animal 12344 already has a genetic history entry on day 0.",
+      "Animal 12345 already has a genetic history entry on day 0.",
+      "Animal 12346 already has a genetic history entry on day 0.",
+      "Animal 12347 already has a genetic history entry on day 0.",
+      "Animal 12348 already has a genetic history entry on day 0.",
+      "Animal 12349 already has a genetic history entry on day 0.",
+      "Animal 12350 already has a genetic history entry on day 0.",
+      "Animal 12351 already has a genetic history entry on day 0.",
+      "Animal 12352 already has a genetic history entry on day 0.",
+      "Animal 12353 already has a genetic history entry on day 0.",
+      "Animal 12354 already has a genetic history entry on day 0.",
+      "Animal 12355 already has a genetic history entry on day 0.",
+      "Animal 12356 already has a genetic history entry on day 0.",
+      "Animal 12357 already has a genetic history entry on day 0.",
+      "Animal 12358 already has a genetic history entry on day 0.",
+      "Animal 12359 already has a genetic history entry on day 0.",
+      "Animal 12360 already has a genetic history entry on day 0.",
+      "Animal 12361 already has a genetic history entry on day 0.",
+      "Animal 12362 already has a genetic history entry on day 0.",
+      "Animal 12363 already has a genetic history entry on day 0.",
+      "Animal 12364 already has a genetic history entry on day 0.",
+      "Animal 12365 already has a genetic history entry on day 0.",
+      "Animal 12366 already has a genetic history entry on day 0.",
+      "Animal 12367 already has a genetic history entry on day 0.",
+      "Animal 12368 already has a genetic history entry on day 0.",
+      "Animal 12369 already has a genetic history entry on day 0.",
+      "Animal 12370 already has a genetic history entry on day 0.",
+      "Animal 12371 already has a genetic history entry on day 0.",
+      "Animal 12372 already has a genetic history entry on day 0.",
+      "Animal 12373 already has a genetic history entry on day 0.",
+      "Animal 12374 already has a genetic history entry on day 0.",
+      "Animal 12375 already has a genetic history entry on day 0.",
+      "Animal 12376 already has a genetic history entry on day 0.",
+      "Animal 12377 already has a genetic history entry on day 0.",
+      "Animal 12378 already has a genetic history entry on day 0.",
+      "Animal 12379 already has a genetic history entry on day 0.",
+      "Animal 12380 already has a genetic history entry on day 0.",
+      "Animal 12381 already has a genetic history entry on day 0.",
+      "Animal 12382 already has a genetic history entry on day 0.",
+      "Animal 12383 already has a genetic history entry on day 0.",
+      "Animal 12384 already has a genetic history entry on day 0.",
+      "Animal 12385 already has a genetic history entry on day 0.",
+      "Animal 12386 already has a genetic history entry on day 0.",
+      "Animal 12387 already has a genetic history entry on day 0.",
+      "Animal 12388 already has a genetic history entry on day 0.",
+      "Animal 12389 already has a genetic history entry on day 0.",
+      "Animal 12390 already has a genetic history entry on day 0.",
+      "Animal 12391 already has a genetic history entry on day 0.",
+      "Animal 12392 already has a genetic history entry on day 0.",
+      "Animal 12393 already has a genetic history entry on day 0.",
+      "Animal 12394 already has a genetic history entry on day 0.",
+      "Animal 12395 already has a genetic history entry on day 0.",
+      "Animal 12396 already has a genetic history entry on day 0.",
+      "Animal 12397 already has a genetic history entry on day 0.",
+      "Animal 12398 already has a genetic history entry on day 0.",
+      "Animal 12399 already has a genetic history entry on day 0.",
+      "Animal 12400 already has a genetic history entry on day 0.",
+      "Animal 12401 already has a genetic history entry on day 0.",
+      "Animal 12402 already has a genetic history entry on day 0.",
+      "Animal 12403 already has a genetic history entry on day 0.",
+      "Animal 12404 already has a genetic history entry on day 0.",
+      "Animal 12405 already has a genetic history entry on day 0.",
+      "Animal 12406 already has a genetic history entry on day 0.",
+      "Animal 12407 already has a genetic history entry on day 0.",
+      "Animal 12408 already has a genetic history entry on day 0.",
+      "Animal 12409 already has a genetic history entry on day 0.",
+      "Animal 12410 already has a genetic history entry on day 0.",
+      "Animal 12411 already has a genetic history entry on day 0.",
+      "Animal 12412 already has a genetic history entry on day 0.",
+      "Animal 12413 already has a genetic history entry on day 0.",
+      "Animal 12414 already has a genetic history entry on day 0.",
+      "Animal 12415 already has a genetic history entry on day 0.",
+      "Animal 12416 already has a genetic history entry on day 0.",
+      "Animal 12417 already has a genetic history entry on day 0.",
+      "Animal 12418 already has a genetic history entry on day 0.",
+      "Animal 12419 already has a genetic history entry on day 0.",
+      "Animal 12420 already has a genetic history entry on day 0.",
+      "Animal 12421 already has a genetic history entry on day 0.",
+      "Animal 12422 already has a genetic history entry on day 0.",
+      "Animal 12423 already has a genetic history entry on day 0.",
+      "Animal 12424 already has a genetic history entry on day 0.",
+      "Animal 12425 already has a genetic history entry on day 0.",
+      "Animal 12426 already has a genetic history entry on day 0.",
+      "Animal 12427 already has a genetic history entry on day 0.",
+      "Animal 12428 already has a genetic history entry on day 0.",
+      "Animal 12429 already has a genetic history entry on day 0.",
+      "Animal 12430 already has a genetic history entry on day 0.",
+      "Animal 12431 already has a genetic history entry on day 0.",
+      "Animal 12432 already has a genetic history entry on day 0.",
+      "Animal 13009 already has a genetic history entry on day 0.",
+      "Animal 13010 already has a genetic history entry on day 0.",
+      "Animal 13011 already has a genetic history entry on day 0.",
+      "Animal 13012 already has a genetic history entry on day 0.",
+      "Animal 13013 already has a genetic history entry on day 0.",
+      "Animal 13014 already has a genetic history entry on day 0.",
+      "Animal 13015 already has a genetic history entry on day 0.",
+      "Animal 13016 already has a genetic history entry on day 0."
+    ]
+  }
+}

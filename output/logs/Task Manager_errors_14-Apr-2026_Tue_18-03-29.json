@@ -1,0 +1,13 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "TaskManager._run_tasks.Task(s) failed": {
+    "info_maps": [
+      {
+        "timestamp": "14-Apr-2026_Tue_18-03-29.739950"
+      }
+    ],
+    "values": [
+      "Failed task(s) and output prefix are: ['Farm8 run 1 (1/4)', 'Farm8 run 2 (2/4)', 'Farm8 run 3 (3/4)', 'Farm8 run 4 (4/4)']"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "InputManager._metadata_properties_exist.No metadata found": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843373"
+      }
+    ],
+    "values": [
+      "No metadata is found for variable '_default_values' with given properties_blob_key _default_values_csv_properties. Consider adding variable information and properties to the metadata."
+    ]
+  },
+  "type.estimate_all.Emissions metadata load failure": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844632"
+      }
+    ],
+    "values": [
+      "Failed to load runtime metadata for 'EEE_econ'. Aborting emissions estimation."
+    ]
+  }
+}

@@ -1,0 +1,2 @@
+AnimalModuleReporter.report_daily_animal_population.*
+AnimalModuleReporter.report_life_cycle_manager_data.*

@@ -1,0 +1,24 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "InputManager._cross_validate_data.Cross Validation Failure": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-33-05.559163"
+      }
+    ],
+    "values": [
+      "One or more cross-validation rules failed: Number of stalls in calf pen"
+    ]
+  },
+  "TaskManager.task.No task run": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "08-Apr-2026_Wed_21-33-05.680308"
+      }
+    ],
+    "values": [
+      "Data not valid for freestall, task not run"
+    ]
+  }
+}

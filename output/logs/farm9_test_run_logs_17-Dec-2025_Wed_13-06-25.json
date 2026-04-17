@@ -1,0 +1,232 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "OutputManager.create_directory.Attempting to create a new directory.": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-19.803151"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-25.933154"
+      }
+    ],
+    "values": [
+      "Attempting to create a new directory at output.",
+      "Attempting to create a new directory at output/logs."
+    ]
+  },
+  "OutputManager.create_directory.Directory successfully created.": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-19.803226"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-25.933215"
+      }
+    ],
+    "values": [
+      "Created a new directory at output.",
+      "Created a new directory at output/logs."
+    ]
+  },
+  "TaskManager.handle_input_data_audit.Validation start": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "17-Dec-2025_Wed_13-06-19.803271"
+      }
+    ],
+    "values": [
+      "Validating data for input/metadata/farm9_wcrops_metadata.json..."
+    ]
+  },
+  "InputManager._load_metadata.load_metadata_attempt": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-19.803316"
+      }
+    ],
+    "values": [
+      "Attempting to load metadata from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/metadata/farm9_wcrops_metadata.json."
+    ]
+  },
+  "InputManager._load_metadata.load_metadata_success": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-19.803739"
+      }
+    ],
+    "values": [
+      "Successfully loaded metadata from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/metadata/farm9_wcrops_metadata.json"
+    ]
+  },
+  "InputManager._load_properties.load_properties_attempt": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-19.803999"
+      }
+    ],
+    "values": [
+      "Attempting to load properties from input/metadata/properties/default.json"
+    ]
+  },
+  "InputManager._load_data_from_json.open_json_file": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-19.804028"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-19.839653"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-21.989000"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-21.992079"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-23.539853"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-25.927115"
+      }
+    ],
+    "values": [
+      "Attempting to open input/metadata/properties/default.json.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/config/farm9_wcrops_config.json.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/farm9_animal.json.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/animal_population.json.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/lactation_curve_adjustment_inputs.json.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/feed/farm9_feed.json."
+    ]
+  },
+  "InputManager._load_data_from_json.load_data_successful": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-19.809927"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-19.840177"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-21.989868"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-22.154522"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-23.540311"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-25.927904"
+      }
+    ],
+    "values": [
+      "Successfully loaded data from input/metadata/properties/default.json.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/config/farm9_wcrops_config.json.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/farm9_animal.json.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/animal_population.json.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/lactation_curve_adjustment_inputs.json.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/feed/farm9_feed.json."
+    ]
+  },
+  "InputManager._load_properties.load_properties_success": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-19.810023"
+      }
+    ],
+    "values": [
+      "Successfully loaded properties from input/metadata/properties/default.json"
+    ]
+  },
+  "InputManager._load_data_from_csv.open_csv_file": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-19.840329"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-23.528095"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-23.536542"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-23.541576"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-23.542647"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-23.543532"
+      }
+    ],
+    "values": [
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/full_feeds_land_use_change_emissions_July2024.csv.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/animal_genetics/NetMerit_HO.csv.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/animal_genetics/TopListingSemen_HO.csv.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/default_costs.csv.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/default_emissions.csv.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/full_feeds_emissions_July2024.csv."
+    ]
+  },
+  "InputManager._load_data_from_csv.load_data_successful": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-19.907946"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-23.535679"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-23.537865"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-23.542504"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-23.543434"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-23.634115"
+      }
+    ],
+    "values": [
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/full_feeds_land_use_change_emissions_July2024.csv.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/animal_genetics/NetMerit_HO.csv.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/animal_genetics/TopListingSemen_HO.csv.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/default_costs.csv.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/default_emissions.csv.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/full_feeds_emissions_July2024.csv."
+    ]
+  },
+  "OutputManager._list_to_file_txt.save_txt_file_try": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-25.933317"
+      }
+    ],
+    "values": [
+      "Attempting to save to output/logs/farm9_test_run_variable_names_17-Dec-2025_Wed_13-06-25.txt."
+    ]
+  },
+  "OutputManager._list_to_file_txt.save_txt_file_success": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-25.933938"
+      }
+    ],
+    "values": [
+      "Successfully saved to output/logs/farm9_test_run_variable_names_17-Dec-2025_Wed_13-06-25.txt."
+    ]
+  },
+  "OutputManager.dict_to_file_json.save_dict_file_try": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-06-25.934083"
+      }
+    ],
+    "values": [
+      "Attempting to save to output/logs/farm9_test_run_logs_17-Dec-2025_Wed_13-06-25.json."
+    ]
+  }
+}

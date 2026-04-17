@@ -1,0 +1,2 @@
+AnimalModuleReporter.report_daily_ration_per_pen.*
+AnimalModuleReporter.report_herd_statistics_data.simulation_day.*

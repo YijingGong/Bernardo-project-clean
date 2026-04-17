@@ -1,0 +1,1032 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "OutputManager.create_directory.Attempting to create a new directory.": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-49.288537"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.301819"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-27.077885"
+      }
+    ],
+    "values": [
+      "Attempting to create a new directory at output.",
+      "Attempting to create a new directory at output/logs.",
+      "Attempting to create a new directory at output/logs."
+    ]
+  },
+  "OutputManager.create_directory.Directory successfully created.": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-49.288614"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.301857"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-27.077956"
+      }
+    ],
+    "values": [
+      "Created a new directory at output.",
+      "Created a new directory at output/logs.",
+      "Created a new directory at output/logs."
+    ]
+  },
+  "TaskManager.handle_input_data_audit.Validation start": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "17-Dec-2025_Wed_13-46-49.288659"
+      }
+    ],
+    "values": [
+      "Validating data for input/metadata/farm9_wcrops_metadata.json..."
+    ]
+  },
+  "InputManager._load_metadata.load_metadata_attempt": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-49.288703"
+      }
+    ],
+    "values": [
+      "Attempting to load metadata from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/metadata/farm9_wcrops_metadata.json."
+    ]
+  },
+  "InputManager._load_metadata.load_metadata_success": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-49.289170"
+      }
+    ],
+    "values": [
+      "Successfully loaded metadata from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/metadata/farm9_wcrops_metadata.json"
+    ]
+  },
+  "InputManager._load_properties.load_properties_attempt": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-49.289443"
+      }
+    ],
+    "values": [
+      "Attempting to load properties from input/metadata/properties/default.json"
+    ]
+  },
+  "InputManager._load_data_from_json.open_json_file": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-49.289475"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-49.326854"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-51.456239"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-51.458739"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-52.969183"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.052406"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.146036"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.147066"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.280898"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.281800"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.286191"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.287212"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.287738"
+      }
+    ],
+    "values": [
+      "Attempting to open input/metadata/properties/default.json.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/config/farm9_wcrops_config.json.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/farm9_animal.json.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/animal_population.json.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/lactation_curve_adjustment_inputs.json.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/feed/farm9_feed.json.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/manure/farm9_processor_configs.json.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/manure/farm9_processor_connections.json.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/constants.json.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/crop_configurations/default_crop_configs.json.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/soil/farm9_soil.json.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/feed_management/farm9_feed_storage_configs.json.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/feed_management/farm9_feed_storages.json."
+    ]
+  },
+  "InputManager._load_data_from_json.load_data_successful": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-49.295221"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-49.328030"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-51.456731"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-51.604353"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-52.969665"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.053002"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.146611"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.147264"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.281173"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.282309"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.286645"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.287515"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.287972"
+      }
+    ],
+    "values": [
+      "Successfully loaded data from input/metadata/properties/default.json.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/config/farm9_wcrops_config.json.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/farm9_animal.json.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/animal_population.json.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/lactation_curve_adjustment_inputs.json.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/feed/farm9_feed.json.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/manure/farm9_processor_configs.json.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/manure/farm9_processor_connections.json.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/constants.json.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/crop_configurations/default_crop_configs.json.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/soil/farm9_soil.json.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/feed_management/farm9_feed_storage_configs.json.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/feed_management/farm9_feed_storages.json."
+    ]
+  },
+  "InputManager._load_properties.load_properties_success": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-49.295317"
+      }
+    ],
+    "values": [
+      "Successfully loaded properties from input/metadata/properties/default.json"
+    ]
+  },
+  "InputManager._load_data_from_csv.open_csv_file": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-49.328210"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-52.962862"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-52.966282"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-52.970945"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-52.971978"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-52.972870"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.053818"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.075307"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.147489"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.257071"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.265394"
+      }
+    ],
+    "values": [
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/full_feeds_land_use_change_emissions_July2024.csv.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/animal_genetics/NetMerit_HO.csv.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/animal_genetics/TopListingSemen_HO.csv.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/default_costs.csv.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/default_emissions.csv.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/full_feeds_emissions_July2024.csv.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/feed/NRC_comp.csv.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/feed/NASEM_Comp_with_TDN.csv.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/weather/farm9_weather.csv.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/feed/user_feeds.csv.",
+      "Attempting to open /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/tractor_dataset.csv."
+    ]
+  },
+  "InputManager._load_data_from_csv.load_data_successful": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-49.405583"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-52.965497"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-52.967249"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-52.971872"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-52.972782"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-53.042695"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.056692"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.082737"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.151163"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.258772"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.268114"
+      }
+    ],
+    "values": [
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/full_feeds_land_use_change_emissions_July2024.csv.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/animal_genetics/NetMerit_HO.csv.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/animal/animal_genetics/TopListingSemen_HO.csv.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/default_costs.csv.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/default_emissions.csv.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/full_feeds_emissions_July2024.csv.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/feed/NRC_comp.csv.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/feed/NASEM_Comp_with_TDN.csv.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/weather/farm9_weather.csv.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/feed/user_feeds.csv.",
+      "Successfully loaded data from /Users/yijinggong/Desktop/RuFaS-Evaluation/input/data/EEE/tractor_dataset.csv."
+    ]
+  },
+  "DataValidator.validate_metadata.Metadata Validation": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.288027"
+      }
+    ],
+    "values": [
+      "Top level metadata is valid."
+    ]
+  },
+  "DataValidator.validate_properties.Metadata properties depth": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.288044"
+      }
+    ],
+    "values": [
+      "Max depth of metadata properties is 7"
+    ]
+  },
+  "DataValidator.validate_properties.Metadata properties path": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.288058"
+      }
+    ],
+    "values": [
+      "Deepest path of metadata properties is ['animal_properties', 'animal_config', 'from_literature', 'culling', 'unknown_cull', 'cull_day_prob', 'properties']"
+    ]
+  },
+  "TaskManager.handle_input_data_audit.Validation complete": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "17-Dec-2025_Wed_13-46-55.288806"
+      }
+    ],
+    "values": [
+      "farm9_test_run validation status: True"
+    ]
+  },
+  "TaskManager.handle_input_data_audit.Saving metadata properties": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "17-Dec-2025_Wed_13-46-55.288831"
+      }
+    ],
+    "values": [
+      "Saving metadata properties input/metadata/farm9_wcrops_metadata.json at output/logs"
+    ]
+  },
+  "InputManager.save_metadata_properties.CSV save attempt.": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.301798"
+      }
+    ],
+    "values": [
+      "Attempting to save metadata properties as CSV to output/logs/farm9_test_run_InputManager_metadata_properties_17-Dec-2025_Wed_13-46-55.csv"
+    ]
+  },
+  "InputManager.save_metadata_properties.Save CSV success.": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.313941"
+      }
+    ],
+    "values": [
+      "Successfully saved to output/logs/farm9_test_run_InputManager_metadata_properties_17-Dec-2025_Wed_13-46-55.csv."
+    ]
+  },
+  "OutputManager._list_filter_files_in_dir.search_path_for_filenames_try": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.314414"
+      }
+    ],
+    "values": [
+      "Attempting to search in output/output_filters."
+    ]
+  },
+  "OutputManager._list_filter_files_in_dir.search_path_for_filenames_success": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.314592"
+      }
+    ],
+    "values": [
+      "Successfully searched in output/output_filters and found 1 filter files."
+    ]
+  },
+  "OutputManager._load_filter_file_content.open_filter_file": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.314620"
+      }
+    ],
+    "values": [
+      "Attempting to open output/output_filters/csv_herd_genetics.txt."
+    ]
+  },
+  "OutputManager._load_filter_file_content.text_file_load_log": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.314856"
+      }
+    ],
+    "values": [
+      "Successfully opened output/output_filters/csv_herd_genetics.txt."
+    ]
+  },
+  "TaskManager.set_random_seed.Random seed received": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "17-Dec-2025_Wed_13-46-55.314884"
+      }
+    ],
+    "values": [
+      "Received 42 as random seed."
+    ]
+  },
+  "TaskManager.set_random_seed.Random seed used": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "17-Dec-2025_Wed_13-46-55.315604"
+      }
+    ],
+    "values": [
+      "Seeded libaries with random_seed=42"
+    ]
+  },
+  "TaskManager.handle_herd_initializaition.Herd initialization start": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "17-Dec-2025_Wed_13-46-55.315627"
+      }
+    ],
+    "values": [
+      "Initializing herd data..."
+    ]
+  },
+  "LactationCurve.__init__.Projected annual milk yield provided to simulation": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-55.317905"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-58.070153"
+      }
+    ],
+    "values": [
+      "Using the annual milk yield input to fit lactation curve parameters.",
+      "Using the annual milk yield input to fit lactation curve parameters."
+    ]
+  },
+  "TaskManager.handle_herd_initializaition.Herd initialization complete": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "17-Dec-2025_Wed_13-46-57.969630"
+      }
+    ],
+    "values": [
+      "Herd data initialized."
+    ]
+  },
+  "TaskManager.handle_single_simulation_run.Starting the simulation": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "17-Dec-2025_Wed_13-46-58.009663"
+      }
+    ],
+    "values": [
+      "Starting the simulation"
+    ]
+  },
+  "RationManager.set_user_defined_rations.growing_and_close_up_user_defined_rations": {
+    "info_maps": [
+      {
+        "ration": {
+          "46": 24.6,
+          "100": 18.5,
+          "99": 28.1,
+          "51": 20.4,
+          "164": 7.6,
+          "301": 0.7
+        },
+        "animal_combination": "lac_cow",
+        "units": "percent",
+        "timestamp": "17-Dec-2025_Wed_13-46-58.379284"
+      }
+    ],
+    "values": [
+      "Pens with growing and close-up cows will use the user-defined ration for close-up pens"
+    ]
+  },
+  "HerdManager.set_milk_type_in_calf_ration_manager.Milk type set for calf ration": {
+    "info_maps": [
+      {
+        "milk_type": "whole",
+        "calf_feeds": [
+          202,
+          216
+        ],
+        "timestamp": "17-Dec-2025_Wed_13-46-58.379309"
+      }
+    ],
+    "values": [
+      "Calf requirements routines will assume 100% of calves' milk intake is whole"
+    ]
+  },
+  "HerdManager._print_animal_num_warnings.simulate_animals_flag": {
+    "info_maps": [
+      {
+        "simulate_animals": true,
+        "herd_data_animal_nums": {
+          "cow_num": 58,
+          "heiferI_num": 25,
+          "heiferIII_num_springers": 3,
+          "calf_num": 5,
+          "heiferII_num": 22
+        },
+        "timestamp": "17-Dec-2025_Wed_13-46-58.383543"
+      }
+    ],
+    "values": [
+      "simulate_animals is true"
+    ]
+  },
+  "Pen.formulate_optimized_ration.User defined ration used for non lactating cow pen after failed formulation attempt.": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-58.672449"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-58.676608"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-59.221866"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-59.225180"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-59.755250"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-46-59.775275"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-00.319114"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-00.322775"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-00.858587"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-00.886824"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-01.413971"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-01.417581"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-01.908282"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-01.912073"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-02.394995"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-02.487452"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-02.986124"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-03.017885"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-03.640311"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-03.643317"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-04.124857"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-04.262591"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-04.761964"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-04.825683"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-05.349624"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-05.354940"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-05.888112"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-05.892044"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-06.415112"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-06.419099"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-06.972102"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-06.975716"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-07.491321"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-07.494541"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-08.121156"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-08.124567"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-08.662252"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-08.666185"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-09.204490"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-09.223690"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-09.740335"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-09.803243"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-10.343419"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-10.347286"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-10.898754"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-10.971200"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-11.525437"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-11.563004"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-12.070143"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-12.094781"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-12.625492"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-12.630136"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-13.288338"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-13.335686"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-13.886817"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-13.891681"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-14.570058"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-14.597783"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-15.175411"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-15.179127"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-15.754444"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-15.757674"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-16.311595"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-16.315750"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-16.872447"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-16.880004"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-17.445614"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-17.449391"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-17.994117"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-17.998241"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-18.558554"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-18.563158"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-19.088946"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-19.141740"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-19.907442"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-19.956663"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-20.464188"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-20.485495"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-21.085485"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-21.135890"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-21.725641"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-21.744836"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-22.319605"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-22.386540"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-22.915968"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-22.919739"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-23.480882"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-23.484619"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-24.017384"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-24.067035"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-24.571383"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-24.575679"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-25.135720"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-25.199269"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-25.771029"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-25.809644"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-26.337380"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-26.341727"
+      }
+    ],
+    "values": [
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. "
+    ]
+  },
+  "type.estimate_all.Emissions Processing": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-26.787899"
+      }
+    ],
+    "values": [
+      "Starting processing of emissions."
+    ]
+  },
+  "OutputManager.filter_variables_pool.filtering_log": {
+    "info_maps": [
+      {
+        "filter_name": "Nitrous Oxide Emissions",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "17-Dec-2025_Wed_13-47-27.068259"
+      },
+      {
+        "filter_name": "Ammonia Emissions",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "17-Dec-2025_Wed_13-47-27.069994"
+      },
+      {
+        "filter_name": "Manure Applications",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "17-Dec-2025_Wed_13-47-27.071334"
+      }
+    ],
+    "values": [
+      "Performing filtering by inclusion per filter's contents. filter_name='Nitrous Oxide Emissions'",
+      "Performing filtering by inclusion per filter's contents. filter_name='Ammonia Emissions'",
+      "Performing filtering by inclusion per filter's contents. filter_name='Manure Applications'"
+    ]
+  },
+  "OutputManager.filter_variables_pool.num_filter_pattern_matches": {
+    "info_maps": [
+      {
+        "filter_name": "Nitrous Oxide Emissions",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "17-Dec-2025_Wed_13-47-27.069957"
+      },
+      {
+        "filter_name": "Ammonia Emissions",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "17-Dec-2025_Wed_13-47-27.071313"
+      },
+      {
+        "filter_name": "Manure Applications",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "17-Dec-2025_Wed_13-47-27.072682"
+      }
+    ],
+    "values": [
+      "There were 0 matches for filter pattern(s) in filter_name='Nitrous Oxide Emissions'.",
+      "There were 0 matches for filter pattern(s) in filter_name='Ammonia Emissions'.",
+      "There were 0 matches for filter pattern(s) in filter_name='Manure Applications'."
+    ]
+  },
+  "OutputManager._list_to_file_txt.save_txt_file_try": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-27.104658"
+      }
+    ],
+    "values": [
+      "Attempting to save to output/logs/farm9_test_run_variable_names_17-Dec-2025_Wed_13-47-27.txt."
+    ]
+  },
+  "OutputManager._list_to_file_txt.save_txt_file_success": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-27.107974"
+      }
+    ],
+    "values": [
+      "Successfully saved to output/logs/farm9_test_run_variable_names_17-Dec-2025_Wed_13-47-27.txt."
+    ]
+  },
+  "OutputManager.dict_to_file_json.save_dict_file_try": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-47-27.108624"
+      }
+    ],
+    "values": [
+      "Attempting to save to output/logs/farm9_test_run_logs_17-Dec-2025_Wed_13-47-27.json."
+    ]
+  }
+}

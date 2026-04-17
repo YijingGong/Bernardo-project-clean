@@ -1,0 +1,7 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "18-Dec-2025_Thu_16-11-44.466806": "InputManager.get_data() called for ['animal', 'herd_information', 'calf_num'].",
+  "18-Dec-2025_Thu_16-11-44.466838": "InputManager.get_data() called for ['animal', 'pen_information', '0', 'animal_combination'].",
+  "18-Dec-2025_Thu_16-11-44.466851": "InputManager.get_data() called for ['animal', 'pen_information', '0', 'number_of_stalls'].",
+  "18-Dec-2025_Thu_16-11-44.466861": "InputManager.get_data() called for ['animal', 'pen_information', '0', 'max_stocking_density']."
+}

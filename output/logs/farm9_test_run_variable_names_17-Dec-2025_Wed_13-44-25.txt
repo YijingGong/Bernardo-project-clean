@@ -1,0 +1,418 @@
+Under construction, use the results with caution.
+_exclude_info_maps=False, expect info_maps accordingly.
+TaskManager.set_random_seed.random_seed (unitless)
+TaskManager.set_random_seed.random_seed
+                                       .info_maps: units
+                                       .info_maps: timestamp (unitless)
+LactationCurve.__init__.parity_1_lactation_curve_parameter__l (unitless)
+LactationCurve.__init__.parity_1_lactation_curve_parameter__l
+                                                             .info_maps: timestamp (unitless)
+                                                             .info_maps: units
+LactationCurve.__init__.parity_1_lactation_curve_parameter__m (unitless)
+LactationCurve.__init__.parity_1_lactation_curve_parameter__m
+                                                             .info_maps: timestamp (unitless)
+                                                             .info_maps: units
+LactationCurve.__init__.parity_1_lactation_curve_parameter__n (unitless)
+LactationCurve.__init__.parity_1_lactation_curve_parameter__n
+                                                             .info_maps: timestamp (unitless)
+                                                             .info_maps: units
+LactationCurve.__init__.parity_2_lactation_curve_parameter__l (unitless)
+LactationCurve.__init__.parity_2_lactation_curve_parameter__l
+                                                             .info_maps: timestamp (unitless)
+                                                             .info_maps: units
+LactationCurve.__init__.parity_2_lactation_curve_parameter__m (unitless)
+LactationCurve.__init__.parity_2_lactation_curve_parameter__m
+                                                             .info_maps: timestamp (unitless)
+                                                             .info_maps: units
+LactationCurve.__init__.parity_2_lactation_curve_parameter__n (unitless)
+LactationCurve.__init__.parity_2_lactation_curve_parameter__n
+                                                             .info_maps: timestamp (unitless)
+                                                             .info_maps: units
+LactationCurve.__init__.parity_3_lactation_curve_parameter__l (unitless)
+LactationCurve.__init__.parity_3_lactation_curve_parameter__l
+                                                             .info_maps: timestamp (unitless)
+                                                             .info_maps: units
+LactationCurve.__init__.parity_3_lactation_curve_parameter__m (unitless)
+LactationCurve.__init__.parity_3_lactation_curve_parameter__m
+                                                             .info_maps: timestamp (unitless)
+                                                             .info_maps: units
+LactationCurve.__init__.parity_3_lactation_curve_parameter__n (unitless)
+LactationCurve.__init__.parity_3_lactation_curve_parameter__n
+                                                             .info_maps: timestamp (unitless)
+                                                             .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_breed (unitless)
+AnimalModuleReporter.report_animal_population_statistics.population_breed
+                                                                         .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_calves (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_calves
+                                                                                    .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_heiferIs (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_heiferIs
+                                                                                      .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_heiferIIs (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_heiferIIs
+                                                                                       .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_heiferIIIs (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_heiferIIIs
+                                                                                        .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_cows
+                                                                                  .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_replacement_heiferIIIS (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_replacement_heiferIIIS
+                                                                                                    .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_lactating_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_lactating_cows
+                                                                                            .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_dry_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_dry_cows
+                                                                                      .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_parity_1_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_parity_1_cows
+                                                                                           .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_parity_2_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_parity_2_cows
+                                                                                           .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_parity_3_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_parity_3_cows
+                                                                                           .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_parity_4_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_parity_4_cows
+                                                                                           .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_parity_5_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_parity_5_cows
+                                                                                           .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_parity_6_or_more_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_number_of_parity_6_or_more_cows
+                                                                                                   .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_average_calf_age (day)
+AnimalModuleReporter.report_animal_population_statistics.population_average_calf_age
+                                                                                    .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_average_heiferI_age (day)
+AnimalModuleReporter.report_animal_population_statistics.population_average_heiferI_age
+                                                                                       .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_average_heiferII_age (day)
+AnimalModuleReporter.report_animal_population_statistics.population_average_heiferII_age
+                                                                                        .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_average_heiferIII_age (day)
+AnimalModuleReporter.report_animal_population_statistics.population_average_heiferIII_age
+                                                                                         .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_average_cow_age (day)
+AnimalModuleReporter.report_animal_population_statistics.population_average_cow_age
+                                                                                   .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_average_replacement_age (day)
+AnimalModuleReporter.report_animal_population_statistics.population_average_replacement_age
+                                                                                           .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_calf_age_0.0_to_11.8 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_calf_age_0.0_to_11.8
+                                                                                        .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_calf_age_11.8_to_23.6 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_calf_age_11.8_to_23.6
+                                                                                         .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_calf_age_23.6_to_35.4 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_calf_age_23.6_to_35.4
+                                                                                         .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_calf_age_35.4_to_47.2 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_calf_age_35.4_to_47.2
+                                                                                         .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_calf_age_47.2_to_59.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_calf_age_47.2_to_59.0
+                                                                                         .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_heiferI_age_60.0_to_123.8 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_heiferI_age_60.0_to_123.8
+                                                                                             .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_heiferI_age_123.8_to_187.6 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_heiferI_age_123.8_to_187.6
+                                                                                              .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_heiferI_age_187.6_to_251.4 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_heiferI_age_187.6_to_251.4
+                                                                                              .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_heiferI_age_251.4_to_315.2 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_heiferI_age_251.4_to_315.2
+                                                                                              .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_heiferI_age_315.2_to_379.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_heiferI_age_315.2_to_379.0
+                                                                                              .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_heiferII_age_380.0_to_450.6 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_heiferII_age_380.0_to_450.6
+                                                                                               .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_heiferII_age_450.6_to_521.2 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_heiferII_age_450.6_to_521.2
+                                                                                               .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_heiferII_age_521.2_to_591.8 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_heiferII_age_521.2_to_591.8
+                                                                                               .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_heiferII_age_591.8_to_662.4 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_heiferII_age_591.8_to_662.4
+                                                                                               .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_heiferII_age_662.4_to_733.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_heiferII_age_662.4_to_733.0
+                                                                                               .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_heiferIII_age_648.0_to_671.8 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_heiferIII_age_648.0_to_671.8
+                                                                                                .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_heiferIII_age_671.8_to_695.6 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_heiferIII_age_671.8_to_695.6
+                                                                                                .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_heiferIII_age_695.6_to_719.4 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_heiferIII_age_695.6_to_719.4
+                                                                                                .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_heiferIII_age_719.4_to_743.2 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_heiferIII_age_719.4_to_743.2
+                                                                                                .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_heiferIII_age_743.2_to_767.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_heiferIII_age_743.2_to_767.0
+                                                                                                .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_cow_age_672.0_to_985.8 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_cow_age_672.0_to_985.8
+                                                                                          .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_cow_age_985.8_to_1299.6 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_cow_age_985.8_to_1299.6
+                                                                                           .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_cow_age_1299.6_to_1613.4 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_cow_age_1299.6_to_1613.4
+                                                                                            .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_cow_age_1613.4_to_1927.2 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_cow_age_1613.4_to_1927.2
+                                                                                            .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_cow_age_1927.2_to_2241.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_cow_age_1927.2_to_2241.0
+                                                                                            .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_replacement_age_658.0_to_683.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_replacement_age_658.0_to_683.0
+                                                                                                  .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_replacement_age_683.0_to_708.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_replacement_age_683.0_to_708.0
+                                                                                                  .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_replacement_age_708.0_to_733.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_replacement_age_708.0_to_733.0
+                                                                                                  .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_replacement_age_733.0_to_758.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_replacement_age_733.0_to_758.0
+                                                                                                  .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_replacement_age_758.0_to_783.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.population_replacement_age_758.0_to_783.0
+                                                                                                  .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_average_calf_body_weight (kg)
+AnimalModuleReporter.report_animal_population_statistics.population_average_calf_body_weight
+                                                                                            .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_average_heiferI_body_weight (kg)
+AnimalModuleReporter.report_animal_population_statistics.population_average_heiferI_body_weight
+                                                                                               .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_average_heiferII_body_weight (kg)
+AnimalModuleReporter.report_animal_population_statistics.population_average_heiferII_body_weight
+                                                                                                .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_average_heiferIII_body_weight (kg)
+AnimalModuleReporter.report_animal_population_statistics.population_average_heiferIII_body_weight
+                                                                                                 .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_average_cow_body_weight (kg)
+AnimalModuleReporter.report_animal_population_statistics.population_average_cow_body_weight
+                                                                                           .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_average_replacement_body_weight (kg)
+AnimalModuleReporter.report_animal_population_statistics.population_average_replacement_body_weight
+                                                                                                   .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_average_cow_days_in_pregnancy (day)
+AnimalModuleReporter.report_animal_population_statistics.population_average_cow_days_in_pregnancy
+                                                                                                 .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_average_cow_days_in_milk (day)
+AnimalModuleReporter.report_animal_population_statistics.population_average_cow_days_in_milk
+                                                                                            .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_average_cow_parity (unitless)
+AnimalModuleReporter.report_animal_population_statistics.population_average_cow_parity
+                                                                                      .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.population_average_cow_calving_interval (day)
+AnimalModuleReporter.report_animal_population_statistics.population_average_cow_calving_interval
+                                                                                                .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_breed (unitless)
+AnimalModuleReporter.report_animal_population_statistics.initial_breed
+                                                                      .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_calves (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_calves
+                                                                                 .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_heiferIs (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_heiferIs
+                                                                                   .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_heiferIIs (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_heiferIIs
+                                                                                    .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_heiferIIIs (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_heiferIIIs
+                                                                                     .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_cows
+                                                                               .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_replacement_heiferIIIS (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_replacement_heiferIIIS
+                                                                                                 .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_lactating_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_lactating_cows
+                                                                                         .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_dry_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_dry_cows
+                                                                                   .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_parity_1_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_parity_1_cows
+                                                                                        .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_parity_2_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_parity_2_cows
+                                                                                        .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_parity_3_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_parity_3_cows
+                                                                                        .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_parity_4_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_parity_4_cows
+                                                                                        .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_parity_5_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_parity_5_cows
+                                                                                        .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_parity_6_or_more_cows (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_number_of_parity_6_or_more_cows
+                                                                                                .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_average_calf_age (day)
+AnimalModuleReporter.report_animal_population_statistics.initial_average_calf_age
+                                                                                 .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_average_heiferI_age (day)
+AnimalModuleReporter.report_animal_population_statistics.initial_average_heiferI_age
+                                                                                    .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_average_heiferII_age (day)
+AnimalModuleReporter.report_animal_population_statistics.initial_average_heiferII_age
+                                                                                     .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_average_heiferIII_age (day)
+AnimalModuleReporter.report_animal_population_statistics.initial_average_heiferIII_age
+                                                                                      .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_average_cow_age (day)
+AnimalModuleReporter.report_animal_population_statistics.initial_average_cow_age
+                                                                                .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_average_replacement_age (day)
+AnimalModuleReporter.report_animal_population_statistics.initial_average_replacement_age
+                                                                                        .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_calf_age_19.0_to_26.6 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_calf_age_19.0_to_26.6
+                                                                                      .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_calf_age_26.6_to_34.2 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_calf_age_26.6_to_34.2
+                                                                                      .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_calf_age_34.2_to_41.8 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_calf_age_34.2_to_41.8
+                                                                                      .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_calf_age_41.8_to_49.4 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_calf_age_41.8_to_49.4
+                                                                                      .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_calf_age_49.4_to_57.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_calf_age_49.4_to_57.0
+                                                                                      .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferI_age_68.0_to_130.2 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferI_age_68.0_to_130.2
+                                                                                          .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferI_age_130.2_to_192.4 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferI_age_130.2_to_192.4
+                                                                                           .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferI_age_192.4_to_254.6 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferI_age_192.4_to_254.6
+                                                                                           .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferI_age_254.6_to_316.8 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferI_age_254.6_to_316.8
+                                                                                           .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferI_age_316.8_to_379.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferI_age_316.8_to_379.0
+                                                                                           .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferII_age_386.0_to_442.6 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferII_age_386.0_to_442.6
+                                                                                            .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferII_age_442.6_to_499.2 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferII_age_442.6_to_499.2
+                                                                                            .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferII_age_499.2_to_555.8 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferII_age_499.2_to_555.8
+                                                                                            .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferII_age_555.8_to_612.4 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferII_age_555.8_to_612.4
+                                                                                            .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferII_age_612.4_to_669.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferII_age_612.4_to_669.0
+                                                                                            .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferIII_age_698.0_to_704.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferIII_age_698.0_to_704.0
+                                                                                             .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferIII_age_704.0_to_710.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferIII_age_704.0_to_710.0
+                                                                                             .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferIII_age_710.0_to_716.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferIII_age_710.0_to_716.0
+                                                                                             .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferIII_age_716.0_to_722.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferIII_age_716.0_to_722.0
+                                                                                             .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferIII_age_722.0_to_728.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_heiferIII_age_722.0_to_728.0
+                                                                                             .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_cow_age_686.0_to_969.8 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_cow_age_686.0_to_969.8
+                                                                                       .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_cow_age_969.8_to_1253.6 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_cow_age_969.8_to_1253.6
+                                                                                        .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_cow_age_1253.6_to_1537.4 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_cow_age_1253.6_to_1537.4
+                                                                                         .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_cow_age_1537.4_to_1821.2 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_cow_age_1537.4_to_1821.2
+                                                                                         .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_cow_age_1821.2_to_2105.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_cow_age_1821.2_to_2105.0
+                                                                                         .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_replacement_age_660.0_to_683.8 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_replacement_age_660.0_to_683.8
+                                                                                               .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_replacement_age_683.8_to_707.6 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_replacement_age_683.8_to_707.6
+                                                                                               .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_replacement_age_707.6_to_731.4 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_replacement_age_707.6_to_731.4
+                                                                                               .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_replacement_age_731.4_to_755.2 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_replacement_age_731.4_to_755.2
+                                                                                               .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_replacement_age_755.2_to_779.0 (animals)
+AnimalModuleReporter.report_animal_population_statistics.initial_replacement_age_755.2_to_779.0
+                                                                                               .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_average_calf_body_weight (kg)
+AnimalModuleReporter.report_animal_population_statistics.initial_average_calf_body_weight
+                                                                                         .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_average_heiferI_body_weight (kg)
+AnimalModuleReporter.report_animal_population_statistics.initial_average_heiferI_body_weight
+                                                                                            .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_average_heiferII_body_weight (kg)
+AnimalModuleReporter.report_animal_population_statistics.initial_average_heiferII_body_weight
+                                                                                             .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_average_heiferIII_body_weight (kg)
+AnimalModuleReporter.report_animal_population_statistics.initial_average_heiferIII_body_weight
+                                                                                              .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_average_cow_body_weight (kg)
+AnimalModuleReporter.report_animal_population_statistics.initial_average_cow_body_weight
+                                                                                        .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_average_replacement_body_weight (kg)
+AnimalModuleReporter.report_animal_population_statistics.initial_average_replacement_body_weight
+                                                                                                .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_average_cow_days_in_pregnancy (day)
+AnimalModuleReporter.report_animal_population_statistics.initial_average_cow_days_in_pregnancy
+                                                                                              .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_average_cow_days_in_milk (day)
+AnimalModuleReporter.report_animal_population_statistics.initial_average_cow_days_in_milk
+                                                                                         .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_average_cow_parity (unitless)
+AnimalModuleReporter.report_animal_population_statistics.initial_average_cow_parity
+                                                                                   .info_maps: units
+AnimalModuleReporter.report_animal_population_statistics.initial_average_cow_calving_interval (day)
+AnimalModuleReporter.report_animal_population_statistics.initial_average_cow_calving_interval
+                                                                                             .info_maps: units
+Weather.average_annual_temperature (°C)
+Weather.average_annual_temperature
+                                  .info_maps: prefix
+                                  .info_maps: units
+RationManager.set_user_defined_rations.user_defined_ration
+                                                          .info_maps: ration (percent)
+                                                          .info_maps: animal_combination (percent)
+                                                          .info_maps: units
+                                                          .values: 202 (percent)
+                                                          .values: 216 (percent)

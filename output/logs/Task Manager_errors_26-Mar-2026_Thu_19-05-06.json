@@ -1,0 +1,13 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "TaskManager._run_tasks.Task(s) failed": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-05-06.556767"
+      }
+    ],
+    "values": [
+      "Failed task(s) and output prefix are: ['freestall (1/1)']"
+    ]
+  }
+}

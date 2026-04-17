@@ -1,0 +1,315 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "DataValidator._string_type_validator.Validation: string variable does not match pattern": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329065"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329851"
+      }
+    ],
+    "values": [
+      "Variable: 'pen_information.[0].housing_type' has value: 'tunnel ventilated', does not match pattern: ^(open air barn)$. Violates properties defined in metadata properties section 'animal_properties'.",
+      "Variable: 'hay_storage.[0].storage_type' has value: 'ProtectedIndoors', does not match pattern: ^(ProtectedIndoor|ProtectedWrapped|ProtectedTarped|Unprotected)$. Violates properties defined in metadata properties section 'feed_storage_configurations'."
+    ]
+  },
+  "DataValidator._fix_data.Validation: invalid data found": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329079"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329229"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329279"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329328"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329378"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329559"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329594"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329638"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329670"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329715"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329748"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329795"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329830"
+      }
+    ],
+    "values": [
+      "Variable: 'pen_information.0.housing_type' has value: tunnel ventilated. Violates properties defined in metadata properties section 'animal_properties'.",
+      "Variable: 'handler.0.cleaning_water_recycle_fraction' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.0.use_parlor_flush' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.1.cleaning_water_recycle_fraction' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.1.use_parlor_flush' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'soil_layers.0.pH' has value: None. Violates properties defined in metadata properties section 'soil_profile_properties'.",
+      "Variable: 'soil_layers.0.initial_fresh_organic_phosphorus_concentration' has value: None. Violates properties defined in metadata properties section 'soil_profile_properties'.",
+      "Variable: 'soil_layers.1.pH' has value: None. Violates properties defined in metadata properties section 'soil_profile_properties'.",
+      "Variable: 'soil_layers.1.initial_fresh_organic_phosphorus_concentration' has value: None. Violates properties defined in metadata properties section 'soil_profile_properties'.",
+      "Variable: 'soil_layers.2.pH' has value: None. Violates properties defined in metadata properties section 'soil_profile_properties'.",
+      "Variable: 'soil_layers.2.initial_fresh_organic_phosphorus_concentration' has value: None. Violates properties defined in metadata properties section 'soil_profile_properties'.",
+      "Variable: 'soil_layers.3.pH' has value: None. Violates properties defined in metadata properties section 'soil_profile_properties'.",
+      "Variable: 'soil_layers.3.initial_fresh_organic_phosphorus_concentration' has value: None. Violates properties defined in metadata properties section 'soil_profile_properties'."
+    ]
+  },
+  "DataValidator._fix_data.Validation: data fixed": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329092"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329240"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329290"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329339"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329389"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329571"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329605"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329648"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329682"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329726"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329759"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329806"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329840"
+      }
+    ],
+    "values": [
+      "Invalid data fixed: 'pen_information.0.housing_type' value changed from tunnel ventilated to open air barn. Fix enabled by default value specified in 'animal_properties'.",
+      "Invalid data fixed: 'handler.0.cleaning_water_recycle_fraction' value changed from None to 0.8. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.0.use_parlor_flush' value changed from None to False. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.1.cleaning_water_recycle_fraction' value changed from None to 0.8. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.1.use_parlor_flush' value changed from None to False. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'soil_layers.0.pH' value changed from None to 7.0. Fix enabled by default value specified in 'soil_profile_properties'.",
+      "Invalid data fixed: 'soil_layers.0.initial_fresh_organic_phosphorus_concentration' value changed from None to 0.0. Fix enabled by default value specified in 'soil_profile_properties'.",
+      "Invalid data fixed: 'soil_layers.1.pH' value changed from None to 7.0. Fix enabled by default value specified in 'soil_profile_properties'.",
+      "Invalid data fixed: 'soil_layers.1.initial_fresh_organic_phosphorus_concentration' value changed from None to 0.0. Fix enabled by default value specified in 'soil_profile_properties'.",
+      "Invalid data fixed: 'soil_layers.2.pH' value changed from None to 7.0. Fix enabled by default value specified in 'soil_profile_properties'.",
+      "Invalid data fixed: 'soil_layers.2.initial_fresh_organic_phosphorus_concentration' value changed from None to 0.0. Fix enabled by default value specified in 'soil_profile_properties'.",
+      "Invalid data fixed: 'soil_layers.3.pH' value changed from None to 7.0. Fix enabled by default value specified in 'soil_profile_properties'.",
+      "Invalid data fixed: 'soil_layers.3.initial_fresh_organic_phosphorus_concentration' value changed from None to 0.0. Fix enabled by default value specified in 'soil_profile_properties'."
+    ]
+  },
+  "DataValidator._log_missing_data.Validation: key not found in data -- data not required upon initialization": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329104"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329115"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329127"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329138"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329149"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329159"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329170"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329181"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329192"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329206"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329250"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329306"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329350"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329401"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329412"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329423"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329434"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329448"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329459"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329472"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329482"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329493"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329504"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329515"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329526"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329537"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329615"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329693"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329771"
+      }
+    ],
+    "values": [
+      "Key minutes_away_for_milking not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key first_parlor_processor not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key parlor_stream_name not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key minutes_away_for_milking not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key first_parlor_processor not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key parlor_stream_name not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key minutes_away_for_milking not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key first_parlor_processor not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key parlor_stream_name not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cleaning_water_recycle_fraction not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key use_parlor_flush not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cleaning_water_recycle_fraction not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key use_parlor_flush not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key capacity not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cover not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key surface_area not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key capacity not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cover not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key surface_area not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key pH not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key pH not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key pH not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key pH not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None."
+    ]
+  },
+  "DataValidator._number_type_validator.Validation: value is not a number": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329218"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329317"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329548"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329583"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329626"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329659"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329704"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329737"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329784"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329817"
+      }
+    ],
+    "values": [
+      "Variable: 'handler.[0].cleaning_water_recycle_fraction' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[1].cleaning_water_recycle_fraction' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'soil_layers.[0].pH' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'soil_profile_properties'.",
+      "Variable: 'soil_layers.[0].initial_fresh_organic_phosphorus_concentration' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'soil_profile_properties'.",
+      "Variable: 'soil_layers.[1].pH' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'soil_profile_properties'.",
+      "Variable: 'soil_layers.[1].initial_fresh_organic_phosphorus_concentration' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'soil_profile_properties'.",
+      "Variable: 'soil_layers.[2].pH' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'soil_profile_properties'.",
+      "Variable: 'soil_layers.[2].initial_fresh_organic_phosphorus_concentration' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'soil_profile_properties'.",
+      "Variable: 'soil_layers.[3].pH' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'soil_profile_properties'.",
+      "Variable: 'soil_layers.[3].initial_fresh_organic_phosphorus_concentration' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'soil_profile_properties'."
+    ]
+  },
+  "DataValidator._bool_type_validator.Validation: bool variable is not a bool": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329267"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-35-10.329361"
+      }
+    ],
+    "values": [
+      "Variable: 'handler.[0].use_parlor_flush' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[1].use_parlor_flush' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'manure_management_properties'."
+    ]
+  }
+}

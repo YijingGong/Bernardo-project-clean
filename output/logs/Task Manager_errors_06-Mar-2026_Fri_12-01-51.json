@@ -1,0 +1,23 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "TaskManager.check_dependencies.Dependency version doesn't meet requirements": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-01-51.679003"
+      }
+    ],
+    "values": [
+      "Required package 'sphinx' version does not match. Installed: 8.2.3, Required: ==9.1.0. We suggest running 'pip install .' to install all dependencies at required minimum levels."
+    ]
+  },
+  "No caller class.main.Dumping all logs from main.py because of error '[ERROR] sphinx==8.2.3 does not satisfy required version: ==9.1.0'": {
+    "info_maps": [
+      {
+        "timestamp": "06-Mar-2026_Fri_12-01-51.683489"
+      }
+    ],
+    "values": [
+      "This terminal error occurred during runtime. Traceback (most recent call last):\n  File \"/Users/yijinggong/Desktop/MASM/main.py\", line 23, in main\n    task_manager.start(\n  File \"/Users/yijinggong/Desktop/MASM/RUFAS/task_manager.py\", line 131, in start\n    self.check_dependencies()\n  File \"/Users/yijinggong/Desktop/MASM/RUFAS/task_manager.py\", line 284, in check_dependencies\n    raise RuntimeError(\nRuntimeError: [ERROR] sphinx==8.2.3 does not satisfy required version: ==9.1.0\n"
+    ]
+  }
+}

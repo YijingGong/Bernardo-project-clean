@@ -1,0 +1,42 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "DataValidator._fix_data.Validation: invalid data not able to be fixed": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-39-16.035366"
+      }
+    ],
+    "values": [
+      "Variable: 'silage_storage.0.storage_type' has invalid value: Silo, and cannot be changed to a default value. Violates properties defined in metadata properties section 'feed_storage_configurations'."
+    ]
+  },
+  "DataValidator.validate_data_by_type.Validation: invalid input data not able to be fixed": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_13-39-16.035434"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-39-16.035469"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_13-39-16.035495"
+      }
+    ],
+    "values": [
+      "Variable: 'silage_storage.[0].storage_type' has invalid or missing values and failed to fix. Please check the inputs.",
+      "Variable: 'silage_storage.[0]' has invalid or missing values and its data type is not fixable. Please check the inputs.",
+      "Variable: 'silage_storage' has invalid or missing values and its data type is not fixable. Please check the inputs."
+    ]
+  },
+  "TaskManager.task.No task run": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "17-Dec-2025_Wed_13-39-16.073224"
+      }
+    ],
+    "values": [
+      "Data not valid for farm9_test_run, task not run"
+    ]
+  }
+}

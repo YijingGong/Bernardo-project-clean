@@ -1,0 +1,13 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "No caller class.main.Dumping all logs from main.py because of error '[Errno 2] No such file or directory: 'input/task_manager_metadata.json''": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_13-23-43.193614"
+      }
+    ],
+    "values": [
+      "This terminal error occurred during runtime. Traceback (most recent call last):\n  File \"/Users/yijinggong/Desktop/MASM/main.py\", line 23, in main\n    task_manager.start(\n  File \"/Users/yijinggong/Desktop/MASM/RUFAS/task_manager.py\", line 133, in start\n    is_data_valid = self.input_manager.start_data_processing(metadata_path, Path(\"\"))\n                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/Users/yijinggong/Desktop/MASM/RUFAS/input_manager.py\", line 96, in start_data_processing\n    self._load_metadata(full_metadata_path)\n  File \"/Users/yijinggong/Desktop/MASM/RUFAS/input_manager.py\", line 467, in _load_metadata\n    raise e\n  File \"/Users/yijinggong/Desktop/MASM/RUFAS/input_manager.py\", line 459, in _load_metadata\n    with open(metadata_path) as metadata_file:\n         ^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: 'input/task_manager_metadata.json'\n"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "TaskManager._run_tasks.Task(s) failed": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_13-25-43.642886"
+      }
+    ],
+    "values": [
+      "Failed task(s) and output prefix are: ['default (1/1)']"
+    ]
+  }
+}

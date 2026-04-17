@@ -1,0 +1,751 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "OutputManager.create_directory.Attempting to create a new directory.": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.072922"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.739727"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.135106"
+      }
+    ],
+    "values": [
+      "Attempting to create a new directory at output.",
+      "Attempting to create a new directory at output/logs.",
+      "Attempting to create a new directory at output/logs."
+    ]
+  },
+  "OutputManager.create_directory.Directory successfully created.": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.073078"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.739825"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.135194"
+      }
+    ],
+    "values": [
+      "Created a new directory at output.",
+      "Created a new directory at output/logs.",
+      "Created a new directory at output/logs."
+    ]
+  },
+  "TaskManager.handle_input_data_audit.Validation start": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Mar-2026_Thu_19-08-26.073154"
+      }
+    ],
+    "values": [
+      "Validating data for input/metadata/example_freestall_dairy_metadata.json..."
+    ]
+  },
+  "InputManager._load_metadata.load_metadata_attempt": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.073221"
+      }
+    ],
+    "values": [
+      "Attempting to load metadata from input/metadata/example_freestall_dairy_metadata.json."
+    ]
+  },
+  "InputManager._load_metadata.load_metadata_success": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.073460"
+      }
+    ],
+    "values": [
+      "Successfully loaded metadata from input/metadata/example_freestall_dairy_metadata.json"
+    ]
+  },
+  "InputManager._validate_required_file_blobs.Required Metadata File Blob Validation": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.073521"
+      }
+    ],
+    "values": [
+      "All required file blobs are present in the metadata."
+    ]
+  },
+  "InputManager._load_properties.load_properties_attempt": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.074203"
+      }
+    ],
+    "values": [
+      "Attempting to load properties from dict_values([PosixPath('input/metadata/properties/default.json'), PosixPath('input/metadata/properties/tasks_properties.json'), PosixPath('input/metadata/properties/commodity_properties.json')])"
+    ]
+  },
+  "InputManager._load_data_from_json.open_json_file": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.074242"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.076431"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.076929"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.127511"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.127873"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.131239"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-28.023400"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.061959"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.178599"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.180976"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.182029"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.187259"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.187617"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.188284"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.189500"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.190089"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.190670"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.190970"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.191259"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.192020"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.193217"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.193647"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.194024"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.706057"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.708244"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.710041"
+      }
+    ],
+    "values": [
+      "Attempting to open input/metadata/properties/default.json.",
+      "Attempting to open input/metadata/properties/tasks_properties.json.",
+      "Attempting to open input/metadata/properties/commodity_properties.json.",
+      "Attempting to open input/data/config/example_freestall_config.json.",
+      "Attempting to open input/data/animal/example_freestall_animal.json.",
+      "Attempting to open input/data/animal/animal_population.json.",
+      "Attempting to open input/data/animal/lactation_curve_adjustment_inputs.json.",
+      "Attempting to open input/data/feed/example_Midwest_feed.json.",
+      "Attempting to open input/data/manure/example_freestall_processor_configs.json.",
+      "Attempting to open input/data/manure/example_freestall_processor_connections.json.",
+      "Attempting to open input/data/crop_configurations/default_crop_configs.json.",
+      "Attempting to open input/data/field/example_small_field_corn_alf_silage.json.",
+      "Attempting to open input/data/soil/example_soil.json.",
+      "Attempting to open input/data/crop/example_alf_corn_silage_rotation.json.",
+      "Attempting to open input/data/fertilizer_schedule/example_sm_alf_corn_fertilizer.json.",
+      "Attempting to open input/data/manure_schedule/example_sm_corn_alf_manure_schedule.json.",
+      "Attempting to open input/data/tillage_schedule/no_till.json.",
+      "Attempting to open input/data/field/example_small_field_corn_grain_alf_hay.json.",
+      "Attempting to open input/data/soil/example_soil_2.json.",
+      "Attempting to open input/data/crop/example_alf_hay_corn_grain_rotation.json.",
+      "Attempting to open input/data/fertilizer_schedule/example_sm_alf_corn_fertilizer.json.",
+      "Attempting to open input/data/manure_schedule/example_sm_corn_alf_manure_schedule.json.",
+      "Attempting to open input/data/tillage_schedule/no_till.json.",
+      "Attempting to open input/data/EEE/constants.json.",
+      "Attempting to open input/data/feed_management/example_feed_storage_configs.json.",
+      "Attempting to open input/data/feed_management/example_freestall_feed_storages.json."
+    ]
+  },
+  "InputManager._load_data_from_json.load_data_successful": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.076354"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.076880"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.082435"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.127732"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.128292"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.297662"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-28.027331"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.062858"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.179081"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.181473"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.182624"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.187467"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.187825"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.188546"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.189749"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.190276"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.190886"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.191158"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.191481"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.192234"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.193301"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.193722"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.194089"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.707592"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.708526"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.710291"
+      }
+    ],
+    "values": [
+      "Successfully loaded data from input/metadata/properties/default.json.",
+      "Successfully loaded data from input/metadata/properties/tasks_properties.json.",
+      "Successfully loaded data from input/metadata/properties/commodity_properties.json.",
+      "Successfully loaded data from input/data/config/example_freestall_config.json.",
+      "Successfully loaded data from input/data/animal/example_freestall_animal.json.",
+      "Successfully loaded data from input/data/animal/animal_population.json.",
+      "Successfully loaded data from input/data/animal/lactation_curve_adjustment_inputs.json.",
+      "Successfully loaded data from input/data/feed/example_Midwest_feed.json.",
+      "Successfully loaded data from input/data/manure/example_freestall_processor_configs.json.",
+      "Successfully loaded data from input/data/manure/example_freestall_processor_connections.json.",
+      "Successfully loaded data from input/data/crop_configurations/default_crop_configs.json.",
+      "Successfully loaded data from input/data/field/example_small_field_corn_alf_silage.json.",
+      "Successfully loaded data from input/data/soil/example_soil.json.",
+      "Successfully loaded data from input/data/crop/example_alf_corn_silage_rotation.json.",
+      "Successfully loaded data from input/data/fertilizer_schedule/example_sm_alf_corn_fertilizer.json.",
+      "Successfully loaded data from input/data/manure_schedule/example_sm_corn_alf_manure_schedule.json.",
+      "Successfully loaded data from input/data/tillage_schedule/no_till.json.",
+      "Successfully loaded data from input/data/field/example_small_field_corn_grain_alf_hay.json.",
+      "Successfully loaded data from input/data/soil/example_soil_2.json.",
+      "Successfully loaded data from input/data/crop/example_alf_hay_corn_grain_rotation.json.",
+      "Successfully loaded data from input/data/fertilizer_schedule/example_sm_alf_corn_fertilizer.json.",
+      "Successfully loaded data from input/data/manure_schedule/example_sm_corn_alf_manure_schedule.json.",
+      "Successfully loaded data from input/data/tillage_schedule/no_till.json.",
+      "Successfully loaded data from input/data/EEE/constants.json.",
+      "Successfully loaded data from input/data/feed_management/example_feed_storage_configs.json.",
+      "Successfully loaded data from input/data/feed_management/example_freestall_feed_storages.json."
+    ]
+  },
+  "InputManager._load_properties.load_properties_success": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-26.082594"
+      }
+    ],
+    "values": [
+      "Successfully loaded properties from dict_values([PosixPath('input/metadata/properties/default.json'), PosixPath('input/metadata/properties/tasks_properties.json'), PosixPath('input/metadata/properties/commodity_properties.json')])"
+    ]
+  },
+  "InputManager._load_data_from_csv.open_csv_file": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-27.911378"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-28.016921"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-28.028627"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-28.031866"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-28.035645"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-30.545203"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.064234"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.095550"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.194169"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.672470"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.682269"
+      }
+    ],
+    "values": [
+      "Attempting to open input/data/animal_genetics/mean_phenotype.csv.",
+      "Attempting to open input/data/animal_genetics/TopListingSemen_HO.csv.",
+      "Attempting to open input/data/EEE/default_costs.csv.",
+      "Attempting to open input/data/EEE/default_emissions.csv.",
+      "Attempting to open input/data/EEE/full_feeds_emissions_July2024_interpolated_regional_average.csv.",
+      "Attempting to open input/data/EEE/full_feeds_land_use_change_emissions_July2024_interpolated_regional_average.csv.",
+      "Attempting to open input/data/feed/NRC_comp.csv.",
+      "Attempting to open input/data/feed/NASEM_Comp_with_TDN_urea.csv.",
+      "Attempting to open input/data/weather/example_temperate_weather.csv.",
+      "Attempting to open input/data/feed/user_feeds.csv.",
+      "Attempting to open input/data/EEE/tractor_dataset.csv."
+    ]
+  },
+  "InputManager._load_data_from_csv.load_data_successful": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-28.016014"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-28.020009"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-28.031740"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-28.035540"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-28.113913"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-30.610679"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.074064"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.104950"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.205356"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.674923"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.689155"
+      }
+    ],
+    "values": [
+      "Successfully loaded data from input/data/animal_genetics/mean_phenotype.csv.",
+      "Successfully loaded data from input/data/animal_genetics/TopListingSemen_HO.csv.",
+      "Successfully loaded data from input/data/EEE/default_costs.csv.",
+      "Successfully loaded data from input/data/EEE/default_emissions.csv.",
+      "Successfully loaded data from input/data/EEE/full_feeds_emissions_July2024_interpolated_regional_average.csv.",
+      "Successfully loaded data from input/data/EEE/full_feeds_land_use_change_emissions_July2024_interpolated_regional_average.csv.",
+      "Successfully loaded data from input/data/feed/NRC_comp.csv.",
+      "Successfully loaded data from input/data/feed/NASEM_Comp_with_TDN_urea.csv.",
+      "Successfully loaded data from input/data/weather/example_temperate_weather.csv.",
+      "Successfully loaded data from input/data/feed/user_feeds.csv.",
+      "Successfully loaded data from input/data/EEE/tractor_dataset.csv."
+    ]
+  },
+  "InputManager._load_cross_validation.load_cross_validation_attempt": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.710368"
+      }
+    ],
+    "values": [
+      "Attempting to load cross validation data from input/metadata/cross_validation/example_cross_validation.json."
+    ]
+  },
+  "InputManager._load_cross_validation.load_metadata_success": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.710460"
+      }
+    ],
+    "values": [
+      "Successfully loaded metadata from input/metadata/cross_validation/example_cross_validation.json"
+    ]
+  },
+  "DataValidator.validate_metadata.Metadata Validation": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711153"
+      }
+    ],
+    "values": [
+      "Top level metadata is valid."
+    ]
+  },
+  "DataValidator.validate_properties.Metadata properties depth": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711176"
+      }
+    ],
+    "values": [
+      "Max depth of metadata properties is 7"
+    ]
+  },
+  "DataValidator.validate_properties.Metadata properties path": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.711194"
+      }
+    ],
+    "values": [
+      "Deepest path of metadata properties is ['animal_properties', 'animal_config', 'from_literature', 'culling', 'unknown_cull', 'cull_day_prob', 'properties']"
+    ]
+  },
+  "TaskManager.handle_input_data_audit.Validation complete": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Mar-2026_Thu_19-08-33.712231"
+      }
+    ],
+    "values": [
+      "freestall validation status: True"
+    ]
+  },
+  "TaskManager.handle_input_data_audit.Saving metadata properties": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Mar-2026_Thu_19-08-33.712291"
+      }
+    ],
+    "values": [
+      "Saving metadata properties input/metadata/example_freestall_dairy_metadata.json at output/logs"
+    ]
+  },
+  "InputManager.save_metadata_properties.CSV save attempt.": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.739676"
+      }
+    ],
+    "values": [
+      "Attempting to save metadata properties as CSV to output/logs/freestall_InputManager_metadata_properties_26-Mar-2026_Thu_19-08-33.csv"
+    ]
+  },
+  "InputManager.save_metadata_properties.Save CSV success.": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.770796"
+      }
+    ],
+    "values": [
+      "Successfully saved to output/logs/freestall_InputManager_metadata_properties_26-Mar-2026_Thu_19-08-33.csv."
+    ]
+  },
+  "OutputManager._list_filter_files_in_dir.search_path_for_filenames_try": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.771466"
+      }
+    ],
+    "values": [
+      "Attempting to search in output/output_filters."
+    ]
+  },
+  "OutputManager._list_filter_files_in_dir.search_path_for_filenames_success": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.772694"
+      }
+    ],
+    "values": [
+      "Successfully searched in output/output_filters and found 5 filter files."
+    ]
+  },
+  "OutputManager._load_filter_file_content.open_filter_file": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.772754"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.773589"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.773994"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.774409"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.774864"
+      }
+    ],
+    "values": [
+      "Attempting to open output/output_filters/csv_daily_herd_statistics.txt.",
+      "Attempting to open output/output_filters/csv_manure.txt.",
+      "Attempting to open output/output_filters/csv_herd_genetics.txt.",
+      "Attempting to open output/output_filters/csv_individual_milk.txt.",
+      "Attempting to open output/output_filters/csv_daily_population.txt."
+    ]
+  },
+  "OutputManager._load_filter_file_content.text_file_load_log": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.773532"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.773956"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.774368"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.774793"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.775214"
+      }
+    ],
+    "values": [
+      "Successfully opened output/output_filters/csv_daily_herd_statistics.txt.",
+      "Successfully opened output/output_filters/csv_manure.txt.",
+      "Successfully opened output/output_filters/csv_herd_genetics.txt.",
+      "Successfully opened output/output_filters/csv_individual_milk.txt.",
+      "Successfully opened output/output_filters/csv_daily_population.txt."
+    ]
+  },
+  "TaskManager.set_random_seed.Random seed received": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Mar-2026_Thu_19-08-33.775258"
+      }
+    ],
+    "values": [
+      "Received 42 as random seed."
+    ]
+  },
+  "TaskManager.set_random_seed.Random seed used": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Mar-2026_Thu_19-08-33.778150"
+      }
+    ],
+    "values": [
+      "Seeded libaries with random_seed=42"
+    ]
+  },
+  "TaskManager.handle_herd_initializaition.Herd initialization start": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Mar-2026_Thu_19-08-33.778212"
+      }
+    ],
+    "values": [
+      "Initializing herd data..."
+    ]
+  },
+  "LactationCurve.__init__.Annual milk yield not provided to simulation": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-33.781714"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-39.977829"
+      }
+    ],
+    "values": [
+      "Lactation curve parameters will not be fit to the target milk production.",
+      "Lactation curve parameters will not be fit to the target milk production."
+    ]
+  },
+  "TaskManager.handle_herd_initializaition.Herd initialization complete": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Mar-2026_Thu_19-08-39.260150"
+      }
+    ],
+    "values": [
+      "Herd data initialized."
+    ]
+  },
+  "TaskManager.handle_single_simulation_run.Starting the simulation": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Mar-2026_Thu_19-08-39.309774"
+      }
+    ],
+    "values": [
+      "Starting the simulation"
+    ]
+  },
+  "RationManager.set_user_defined_rations.growing_and_close_up_user_defined_rations": {
+    "info_maps": [
+      {
+        "ration": {
+          "50": 37.45,
+          "110": 17.65,
+          "104": 0.37,
+          "44": 15.31,
+          "301": 3.27,
+          "302": 25.21,
+          "23": 0.74
+        },
+        "animal_combination": "lac_cow",
+        "units": "percent",
+        "timestamp": "26-Mar-2026_Thu_19-08-39.978235"
+      }
+    ],
+    "values": [
+      "Pens with growing and close-up cows will use the user-defined ration for close-up pens"
+    ]
+  },
+  "HerdManager.set_milk_type_in_calf_ration_manager.Milk type set for calf ration": {
+    "info_maps": [
+      {
+        "milk_type": "whole",
+        "calf_feeds": [
+          202,
+          216
+        ],
+        "timestamp": "26-Mar-2026_Thu_19-08-39.978268"
+      }
+    ],
+    "values": [
+      "Calf requirements routines will assume 100% of calves' milk intake is whole"
+    ]
+  },
+  "HerdManager._print_animal_num_warnings.simulate_animals_flag": {
+    "info_maps": [
+      {
+        "simulate_animals": true,
+        "herd_data_animal_nums": {
+          "heiferII_num": 38,
+          "cow_num": 100,
+          "heiferI_num": 44,
+          "heiferIII_num_springers": 5,
+          "calf_num": 8
+        },
+        "timestamp": "26-Mar-2026_Thu_19-08-39.987096"
+      }
+    ],
+    "values": [
+      "simulate_animals is true"
+    ]
+  },
+  "Pen.formulate_optimized_ration.User defined ration used for non lactating cow pen after failed formulation attempt.": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-40.427188"
+      },
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-40.507526"
+      }
+    ],
+    "values": [
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. "
+    ]
+  },
+  "OutputManager._list_to_file_txt.save_txt_file_try": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.169148"
+      }
+    ],
+    "values": [
+      "Attempting to save to output/logs/freestall_variable_names_26-Mar-2026_Thu_19-08-42.txt."
+    ]
+  },
+  "OutputManager._list_to_file_txt.save_txt_file_success": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.178778"
+      }
+    ],
+    "values": [
+      "Successfully saved to output/logs/freestall_variable_names_26-Mar-2026_Thu_19-08-42.txt."
+    ]
+  },
+  "OutputManager.dict_to_file_json.save_dict_file_try": {
+    "info_maps": [
+      {
+        "timestamp": "26-Mar-2026_Thu_19-08-42.179545"
+      }
+    ],
+    "values": [
+      "Attempting to save to output/logs/freestall_logs_26-Mar-2026_Thu_19-08-42.json."
+    ]
+  }
+}

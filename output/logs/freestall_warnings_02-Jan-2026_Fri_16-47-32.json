@@ -1,0 +1,805 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "DataValidator._log_missing_data.Validation: key not found in data -- data not required upon initialization": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231237"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231256"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231269"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231280"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231292"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231304"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231318"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231330"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231343"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231355"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231404"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231447"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231494"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231536"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231579"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231624"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231676"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231719"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231729"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231740"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231750"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231761"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231771"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231782"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231793"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231803"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231815"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231825"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231846"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231856"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231875"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231886"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231896"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231909"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231931"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231941"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231951"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231961"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231974"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231986"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.232000"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.232011"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.232021"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.232041"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.232052"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.232062"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.232072"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.232083"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843747"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843771"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843783"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843794"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843810"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843823"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843834"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843845"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843859"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843877"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843936"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843983"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844029"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844073"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844117"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844161"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844205"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844258"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844269"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844281"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844293"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844304"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844315"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844327"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844338"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844349"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844360"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844371"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844381"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844393"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844404"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844415"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844427"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844437"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844448"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844459"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844470"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844481"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844491"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844502"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844514"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844525"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844536"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844547"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844557"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844569"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844580"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844591"
+      }
+    ],
+    "values": [
+      "Key minutes_away_for_milking not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key first_parlor_processor not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key parlor_stream_name not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key minutes_away_for_milking not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key first_parlor_processor not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key parlor_stream_name not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key minutes_away_for_milking not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key first_parlor_processor not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key parlor_stream_name not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cleaning_water_recycle_fraction not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key use_parlor_flush not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cleaning_water_recycle_fraction not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key use_parlor_flush not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cleaning_water_recycle_fraction not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key use_parlor_flush not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cleaning_water_recycle_fraction not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key use_parlor_flush not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key capacity not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cover not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key surface_area not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key capacity not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cover not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key surface_area not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key capacity not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cover not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key surface_area not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key capacity not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cover not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key surface_area not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key capacity not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cover not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key storage_time_period not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key surface_area not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key minutes_away_for_milking not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key first_parlor_processor not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key parlor_stream_name not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key minutes_away_for_milking not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key first_parlor_processor not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key parlor_stream_name not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key minutes_away_for_milking not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key first_parlor_processor not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key parlor_stream_name not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cleaning_water_recycle_fraction not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key use_parlor_flush not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cleaning_water_recycle_fraction not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key use_parlor_flush not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cleaning_water_recycle_fraction not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key use_parlor_flush not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cleaning_water_recycle_fraction not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key use_parlor_flush not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key capacity not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cover not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key surface_area not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key capacity not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cover not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key surface_area not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key capacity not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cover not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key surface_area not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key capacity not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cover not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key surface_area not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key capacity not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key cover not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key storage_time_period not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key surface_area not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key composting_type not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key is_mixed not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None."
+    ]
+  },
+  "DataValidator._number_type_validator.Validation: value is not a number": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231366"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231458"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231547"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231634"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843894"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843995"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844084"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844172"
+      }
+    ],
+    "values": [
+      "Variable: 'handler.[0].cleaning_water_recycle_fraction' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[1].cleaning_water_recycle_fraction' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[2].cleaning_water_recycle_fraction' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[3].cleaning_water_recycle_fraction' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[0].cleaning_water_recycle_fraction' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[1].cleaning_water_recycle_fraction' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[2].cleaning_water_recycle_fraction' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[3].cleaning_water_recycle_fraction' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'manure_management_properties'."
+    ]
+  },
+  "DataValidator._fix_data.Validation: invalid data found": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231379"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231426"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231473"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231515"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231557"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231603"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231652"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231698"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843908"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843958"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844007"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844051"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844095"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844139"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844183"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844234"
+      }
+    ],
+    "values": [
+      "Variable: 'handler.0.cleaning_water_recycle_fraction' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.0.use_parlor_flush' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.1.cleaning_water_recycle_fraction' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.1.use_parlor_flush' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.2.cleaning_water_recycle_fraction' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.2.use_parlor_flush' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.3.cleaning_water_recycle_fraction' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.3.use_parlor_flush' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.0.cleaning_water_recycle_fraction' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.0.use_parlor_flush' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.1.cleaning_water_recycle_fraction' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.1.use_parlor_flush' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.2.cleaning_water_recycle_fraction' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.2.use_parlor_flush' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.3.cleaning_water_recycle_fraction' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.3.use_parlor_flush' has value: None. Violates properties defined in metadata properties section 'manure_management_properties'."
+    ]
+  },
+  "DataValidator._fix_data.Validation: data fixed": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231391"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231437"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231483"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231525"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231567"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231613"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231665"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231708"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843924"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843971"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844018"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844062"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844106"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844150"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844194"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844245"
+      }
+    ],
+    "values": [
+      "Invalid data fixed: 'handler.0.cleaning_water_recycle_fraction' value changed from None to 0.8. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.0.use_parlor_flush' value changed from None to False. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.1.cleaning_water_recycle_fraction' value changed from None to 0.8. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.1.use_parlor_flush' value changed from None to False. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.2.cleaning_water_recycle_fraction' value changed from None to 0.8. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.2.use_parlor_flush' value changed from None to False. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.3.cleaning_water_recycle_fraction' value changed from None to 0.8. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.3.use_parlor_flush' value changed from None to False. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.0.cleaning_water_recycle_fraction' value changed from None to 0.8. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.0.use_parlor_flush' value changed from None to False. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.1.cleaning_water_recycle_fraction' value changed from None to 0.8. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.1.use_parlor_flush' value changed from None to False. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.2.cleaning_water_recycle_fraction' value changed from None to 0.8. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.2.use_parlor_flush' value changed from None to False. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.3.cleaning_water_recycle_fraction' value changed from None to 0.8. Fix enabled by default value specified in 'manure_management_properties'.",
+      "Invalid data fixed: 'handler.3.use_parlor_flush' value changed from None to False. Fix enabled by default value specified in 'manure_management_properties'."
+    ]
+  },
+  "DataValidator._bool_type_validator.Validation: bool variable is not a bool": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231414"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231504"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231590"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.231687"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.843947"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844040"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844128"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-31.844216"
+      }
+    ],
+    "values": [
+      "Variable: 'handler.[0].use_parlor_flush' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[1].use_parlor_flush' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[2].use_parlor_flush' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[3].use_parlor_flush' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[0].use_parlor_flush' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[1].use_parlor_flush' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[2].use_parlor_flush' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'manure_management_properties'.",
+      "Variable: 'handler.[3].use_parlor_flush' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'manure_management_properties'."
+    ]
+  },
+  "OutputManager._list_filter_files_in_dir.invalid filter file prefix": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.262322"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.262353"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.262378"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.262396"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.262411"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.262424"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-32.116136"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-32.116168"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-32.116185"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-32.116198"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-32.116216"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-47-32.116229"
+      }
+    ],
+    "values": [
+      "_csv_individual_genetics_history.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_csv_daily_population.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_csv_all_variables.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_report_LC.json prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_csv_sold_animal_genetics_history.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_csv_milk_production.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_csv_individual_genetics_history.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_csv_daily_population.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_csv_all_variables.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_report_LC.json prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_csv_sold_animal_genetics_history.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_csv_milk_production.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']"
+    ]
+  },
+  "LactationCurve._get_year_adjustments.Lactation curve adjustments not available for simulation ending in 2019": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-40.269680"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-42.925484"
+      }
+    ],
+    "values": [
+      "Using adjustments for 2016.",
+      "Using adjustments for 2016."
+    ]
+  },
+  "HerdFactory._random_sample_with_replacement_by_type.Missing cows_parity_5_milking animal population file": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-42.299852"
+      }
+    ],
+    "values": [
+      "No animals in group cows_parity_5_milking found in animal population file. Generating a new herd recommended.Full error: list index out of range"
+    ]
+  },
+  "HerdFactory._random_sample_with_replacement_by_type.Missing cows_parity_5_not_milking animal population file": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-42.359145"
+      }
+    ],
+    "values": [
+      "No animals in group cows_parity_5_not_milking found in animal population file. Generating a new herd recommended.Full error: list index out of range"
+    ]
+  },
+  "FeedManager.receive_crop.Storage RuFaS ID Warning": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-42.924237"
+      },
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-42.924336"
+      }
+    ],
+    "values": [
+      "Storage 'corn_silage_storage_1' has a RuFaS ID '51' that is not mapped to any feed listed in the available feeds. This storage will not be used for feeding.",
+      "Storage 'alfalfa_hay_storage_2' has a RuFaS ID '108' that is not mapped to any feed listed in the available feeds. This storage will not be used for feeding."
+    ]
+  },
+  "EmissionsEstimator.check_available_purchased_feed_data.Missing Purchased Feed Emissions Data": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-43.310758"
+      }
+    ],
+    "values": [
+      "Missing emissions data for RuFaS feed IDs: 216, 301. These feeds will be omitted from purchased feed emissions estimations."
+    ]
+  },
+  "EmissionsEstimator.check_available_purchased_feed_data.Missing Land Use Change Purchased Feed Emissions Data": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-43.310832"
+      }
+    ],
+    "values": [
+      "Missing land use change emissions data for RuFaS feed IDs: 216, 301. These feeds will be omitted from land use change purchased feed emissions estimations."
+    ]
+  },
+  "ManureNutrientManager._evaluate_nutrient_request.Partial request fulfilled": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-48.616348"
+      }
+    ],
+    "values": [
+      "Not adequate manure on farm to fulfill request. Projected manure mass: 169319.64981160735 kg."
+    ]
+  },
+  "ManureNutrientManager._evaluate_nutrient_request.Unable to fulfill request with on-farm manure": {
+    "info_maps": [
+      {
+        "timestamp": "02-Jan-2026_Fri_16-45-48.616979"
+      }
+    ],
+    "values": [
+      "Projected manure mass is zero kg."
+    ]
+  },
+  "Field._handle_unmet_nutrients.Nutrient deficient manure application.field='field_1'": {
+    "info_maps": [
+      {
+        "suffix": "field='field_1'",
+        "year": 2014,
+        "day": 311,
+        "timestamp": "02-Jan-2026_Fri_16-46-10.938116"
+      },
+      {
+        "suffix": "field='field_1'",
+        "year": 2015,
+        "day": 311,
+        "timestamp": "02-Jan-2026_Fri_16-46-25.421996"
+      },
+      {
+        "suffix": "field='field_1'",
+        "year": 2016,
+        "day": 311,
+        "timestamp": "02-Jan-2026_Fri_16-46-38.895942"
+      }
+    ],
+    "values": [
+      "Manure nitrogen deficient by 0.0 kg, phosphorus deficient by 315.66661597674624 kg.",
+      "Manure nitrogen deficient by 0.0 kg, phosphorus deficient by 316.43422479870526 kg.",
+      "Manure nitrogen deficient by 0.0 kg, phosphorus deficient by 313.23227389631984 kg."
+    ]
+  },
+  "Field._handle_unmet_nutrients.Nutrient deficient manure application.field='field_2'": {
+    "info_maps": [
+      {
+        "suffix": "field='field_2'",
+        "year": 2014,
+        "day": 311,
+        "timestamp": "02-Jan-2026_Fri_16-46-10.938821"
+      },
+      {
+        "suffix": "field='field_2'",
+        "year": 2015,
+        "day": 311,
+        "timestamp": "02-Jan-2026_Fri_16-46-25.422715"
+      },
+      {
+        "suffix": "field='field_2'",
+        "year": 2016,
+        "day": 311,
+        "timestamp": "02-Jan-2026_Fri_16-46-38.896977"
+      }
+    ],
+    "values": [
+      "Manure nitrogen deficient by 0.0 kg, phosphorus deficient by 315.66661597674624 kg.",
+      "Manure nitrogen deficient by 0.0 kg, phosphorus deficient by 316.4342247987052 kg.",
+      "Manure nitrogen deficient by 0.0 kg, phosphorus deficient by 313.23227389631984 kg."
+    ]
+  }
+}

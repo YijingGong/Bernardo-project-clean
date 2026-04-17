@@ -1,0 +1,298 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "OutputManager.create_directory.Attempting to create a new directory.": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.501154"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_15-50-19.154598"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_15-50-19.156157"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_15-50-19.156666"
+      }
+    ],
+    "values": [
+      "Attempting to create a new directory at output.",
+      "Attempting to create a new directory at output/logs.",
+      "Attempting to create a new directory at output/logs.",
+      "Attempting to create a new directory at output/logs."
+    ]
+  },
+  "OutputManager.create_directory.Directory successfully created.": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.501216"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_15-50-19.154870"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_15-50-19.156227"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_15-50-19.156702"
+      }
+    ],
+    "values": [
+      "Created a new directory at output.",
+      "Created a new directory at output/logs.",
+      "Created a new directory at output/logs.",
+      "Created a new directory at output/logs."
+    ]
+  },
+  "TaskManager.start.Task Manager Start": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.545266"
+      }
+    ],
+    "values": [
+      "Task Manager Started."
+    ]
+  },
+  "InputManager._load_metadata.load_metadata_attempt": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.545338"
+      }
+    ],
+    "values": [
+      "Attempting to load metadata from input/task_manager_metadata.json."
+    ]
+  },
+  "InputManager._load_metadata.load_metadata_success": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.545511"
+      }
+    ],
+    "values": [
+      "Successfully loaded metadata from input/task_manager_metadata.json"
+    ]
+  },
+  "InputManager._load_properties.load_properties_attempt": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.545602"
+      }
+    ],
+    "values": [
+      "Attempting to load properties from input/metadata/properties/tasks_properties.json"
+    ]
+  },
+  "InputManager._load_data_from_json.open_json_file": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.545629"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.547657"
+      }
+    ],
+    "values": [
+      "Attempting to open input/metadata/properties/tasks_properties.json.",
+      "Attempting to open input/data/tasks/example_freestall_task.json."
+    ]
+  },
+  "InputManager._load_data_from_json.load_data_successful": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.546148"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.547995"
+      }
+    ],
+    "values": [
+      "Successfully loaded data from input/metadata/properties/tasks_properties.json.",
+      "Successfully loaded data from input/data/tasks/example_freestall_task.json."
+    ]
+  },
+  "InputManager._load_properties.load_properties_success": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.546190"
+      }
+    ],
+    "values": [
+      "Successfully loaded properties from input/metadata/properties/tasks_properties.json"
+    ]
+  },
+  "DataValidator.validate_metadata.Metadata Validation": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.556504"
+      }
+    ],
+    "values": [
+      "Top level metadata is valid."
+    ]
+  },
+  "DataValidator.validate_properties.Metadata properties depth": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.556572"
+      }
+    ],
+    "values": [
+      "Max depth of metadata properties is 6"
+    ]
+  },
+  "DataValidator.validate_properties.Metadata properties path": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.556588"
+      }
+    ],
+    "values": [
+      "Deepest path of metadata properties is ['tasks_properties', 'tasks', 'properties', 'SA_input_variables', 'properties', 'data_type']"
+    ]
+  },
+  "OutputManager._list_filter_files_in_dir.search_path_for_filenames_try": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.558125"
+      }
+    ],
+    "values": [
+      "Attempting to search in output/output_filters."
+    ]
+  },
+  "OutputManager._list_filter_files_in_dir.search_path_for_filenames_success": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.558635"
+      }
+    ],
+    "values": [
+      "Successfully searched in output/output_filters and found 1 filter files."
+    ]
+  },
+  "OutputManager._load_filter_file_content.open_filter_file": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.558669"
+      }
+    ],
+    "values": [
+      "Attempting to open output/output_filters/csv_herd_genetics.txt."
+    ]
+  },
+  "OutputManager._load_filter_file_content.text_file_load_log": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.559061"
+      }
+    ],
+    "values": [
+      "Successfully opened output/output_filters/csv_herd_genetics.txt."
+    ]
+  },
+  "OutputManager.validate_filter_content.Filter validations skipped.": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.559083"
+      }
+    ],
+    "values": [
+      "Filter validation is not supported forcsv_herd_genetics.txt."
+    ]
+  },
+  "TaskManager.start.Task Manager workers": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.559097"
+      }
+    ],
+    "values": [
+      "Task Manager is going to run 4 in parallel."
+    ]
+  },
+  "TaskManager.start.Task Manager parsed tasks": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.642567"
+      }
+    ],
+    "values": [
+      "Parsed 1 tasks args."
+    ]
+  },
+  "TaskManager.start.Task Manager expanded tasks": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-47-49.642631"
+      }
+    ],
+    "values": [
+      "Expanded task args to 1. Starting the tasks..."
+    ]
+  },
+  "TaskManager.handle_post_processing.Validation counts": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "17-Dec-2025_Wed_15-50-19.153983"
+      }
+    ],
+    "values": [
+      "{'valid_elements': 8, 'invalid_elements': 0, 'fixed_elements': 30, 'total_elements': 38}"
+    ]
+  },
+  "OutputManager.dict_to_file_json.save_dict_file_try": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-50-19.154951"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_15-50-19.156346"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_15-50-19.157022"
+      }
+    ],
+    "values": [
+      "Attempting to save to output/logs/Task Manager_InputManager_get_data_log_17-Dec-2025_Wed_15-50-19.json.",
+      "Attempting to save to output/logs/Task Manager_InputManager_delete_data_log_17-Dec-2025_Wed_15-50-19.json.",
+      "Attempting to save to output/logs/Task Manager_logs_17-Dec-2025_Wed_15-50-19.json."
+    ]
+  },
+  "OutputManager.dict_to_file_json.save_dict_file_success": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-50-19.155756"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_15-50-19.156564"
+      }
+    ],
+    "values": [
+      "Successfully saved to output/logs/Task Manager_InputManager_get_data_log_17-Dec-2025_Wed_15-50-19.json.",
+      "Successfully saved to output/logs/Task Manager_InputManager_delete_data_log_17-Dec-2025_Wed_15-50-19.json."
+    ]
+  },
+  "OutputManager._list_to_file_txt.save_txt_file_try": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-50-19.156789"
+      }
+    ],
+    "values": [
+      "Attempting to save to output/logs/Task Manager_variable_names_17-Dec-2025_Wed_15-50-19.txt."
+    ]
+  },
+  "OutputManager._list_to_file_txt.save_txt_file_success": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_15-50-19.156929"
+      }
+    ],
+    "values": [
+      "Successfully saved to output/logs/Task Manager_variable_names_17-Dec-2025_Wed_15-50-19.txt."
+    ]
+  }
+}

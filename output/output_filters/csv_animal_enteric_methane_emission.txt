@@ -1,0 +1,1 @@
+AnimalModuleReporter.report_enteric_methane_emission.*

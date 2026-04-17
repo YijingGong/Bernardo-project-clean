@@ -1,0 +1,139 @@
+================================================================================
+INTRODUCTION — REVISED DRAFT
+================================================================================
+
+Global dairy demand is projected to grow substantially as the world population
+approaches 9.7 billion by 2050 (United Nations Department of Economic and Social
+Affairs, 2022), placing intensifying pressure on producers to improve both
+productivity and environmental performance simultaneously. Feed costs represent
+the single largest operating expense on commercial dairy farms, typically
+accounting for 50–60% of total production costs, and diet composition directly
+determines animal performance and farm profitability (Buza et al., 2014). Among
+the variables available to nutritionists when formulating rations, the
+forage-to-concentrate ratio (F:C) is one of the most practically accessible and
+economically influential levers, as it governs diet energy density, rumen
+fermentation pattern, and voluntary feed intake simultaneously.
+
+High-forage diets provide the structural carbohydrates required for normal rumen
+function, but their elevated neutral detergent fiber (NDF) content imposes a
+physical fill constraint that limits voluntary dry matter intake (DMI) and dilutes
+diet metabolizable energy concentration (Allen, 2000). Increasing concentrate
+inclusion attenuates this limitation, raising energy density and improving gross
+feed efficiency (GFE; energy-corrected milk per unit of DMI) when energy supply
+is the primary constraint on milk production (Connor, 2015). However, excessive
+concentrate inclusion risks subacute ruminal acidosis, milk fat depression, and
+associated metabolic disorders that can offset these production benefits (Krause
+and Oetzel, 2006; Zebeli et al., 2008).
+
+Beyond productivity, the F:C ratio is also a key determinant of enteric methane
+(CH4) emissions, which represent a substantial fraction of total greenhouse gas
+output from dairy systems. Forage-rich diets promote acetate-type ruminal
+fermentation, generating a hydrogen surplus captured predominantly as CH4, such
+that methane yield per unit of energy-corrected milk tends to increase with
+forage inclusion (Boadi et al., 2004; Beauchemin et al., 2008). Higher
+concentrate inclusion promotes propionate-pathway fermentation, reducing hydrogen
+availability for methanogenesis and lowering methane intensity per unit of milk,
+though the net effect on absolute methane output per animal depends on the
+simultaneous response of DMI and milk production (Benchaar et al., 2001;
+Aguerre et al., 2011).
+
+While these general relationships between F:C ratio, production performance, and
+emissions are well established in the research literature, how they manifest on
+any given commercial farm depends on that farm's specific herd genetics,
+management system, feed composition, and production goals. The practical
+consequences of shifting dietary F:C — whether toward a high-forage or
+low-forage strategy — are therefore farm-specific and cannot be reliably inferred
+from population-level research trends alone. Evaluating such dietary scenarios
+empirically on commercial farms is resource-intensive and rarely captures the
+full complexity of real herd dynamics, feed storage losses, and manure management
+interactions. Whole-farm simulation provides a practical complementary approach
+by allowing farm-specific what-if scenarios to be tested systematically in silico.
+The Ruminant Farm Systems (RuFaS) model integrates animal, feed, and manure
+modules to simultaneously project production and environmental outcomes under
+user-defined dietary scenarios, with a dynamic ration optimizer that adjusts
+ingredient inclusion to meet biological constraints, making it well-suited for
+this type of farm-specific dietary analysis (Gong et al., 2025; Reed et al.,
+2025). Therefore, the objective of this study was to use the RuFaS model to
+quantify the effects of a high-forage diet (HFD) versus a low-forage diet (LFD)
+on production performance and environmental footprint for a single commercial
+dairy farm.
+
+
+================================================================================
+REFERENCE LIST
+================================================================================
+
+Aguerre MJ, Wattiaux MA, Powell JM, Broderick GA, Arndt C (2011). Effect of
+  forage-to-concentrate ratio in dairy cow diets on emission of methane, carbon
+  dioxide, and ammonia, lactation performance, and manure excretion. Journal of
+  Dairy Science 94:3081-3093. https://doi.org/10.3168/jds.2010-4011
+
+Allen MS (2000). Effects of diet on short-term regulation of feed intake by
+  lactating dairy cattle. Journal of Dairy Science 83:1598-1624.
+  https://doi.org/10.3168/jds.S0022-0302(00)75030-2
+
+Beauchemin KA, Kreuzer M, O'Mara F, McAllister TA (2008). Nutritional management
+  for enteric methane abatement: a review. Australian Journal of Experimental
+  Agriculture 48:21-27. https://doi.org/10.1071/EA07199
+
+Benchaar C, Pomar C, Chiquette J (2001). Evaluation of dietary strategies to
+  reduce methane production in ruminants: a modelling approach. Canadian Journal
+  of Animal Science 81:563-574. https://doi.org/10.4141/A00-119
+
+Boadi D, Benchaar C, Chiquette J, Masse D (2004). Mitigation strategies to reduce
+  enteric methane emissions from dairy cows: update review. Canadian Journal of
+  Animal Science 84:319-335. https://doi.org/10.4141/A03-109
+
+Buza MH, Holden LA, White RA, Ishler VA (2014). Evaluating the effect of ration
+  composition on income over feed cost and milk yield. Journal of Dairy Science
+  97:3111-3119. [* verify volume and pages before submission]
+
+Connor EE (2015). Invited review: Improving feed efficiency in dairy production:
+  challenges and possibilities. Animal 9:395-408.
+  https://doi.org/10.1017/S1751731114002894
+  [* verify DOI and page range before submission]
+
+Eastridge ML (2006). Major advances in applied dairy cattle nutrition. Journal of
+  Dairy Science 89:1311-1323.
+  https://doi.org/10.3168/jds.S0022-0302(06)72199-9
+
+Gong Y, [co-authors] (2025). [Full title]. [Journal]. [* insert full citation]
+
+Krause KM, Oetzel GR (2006). Understanding and preventing subacute ruminal
+  acidosis in dairy herds: a review. Animal Feed Science and Technology
+  126:215-236. https://doi.org/10.1016/j.anifeedsci.2005.08.004
+
+Reed KF, [co-authors] (2025). [Full title]. [Journal]. [* insert full citation]
+
+United Nations Department of Economic and Social Affairs (2022). World Population
+  Prospects 2022: Summary of Results. UN DESA/POP/2022/TR/NO. 3. United Nations,
+  New York.
+
+Zebeli Q, Dijkstra J, Tafaj M, Steingass H, Ametaj BN, Drochner W (2008).
+  Modeling the adequacy of dietary fiber in dairy cows based on the responses of
+  ruminal pH and milk fat production to composition of the diet. Journal of Dairy
+  Science 91:2046-2066. https://doi.org/10.3168/jds.2007-0572
+
+
+================================================================================
+EDITORIAL NOTES
+================================================================================
+
+1. LAST PARAGRAPH (revised): The framing has been shifted from "trade-offs
+   incompletely characterized in the literature" (too broad for a single-farm
+   study) to "farm-specific outcomes that depend on local conditions" — which
+   motivates RuFaS as a what-if tool rather than a gap-filling exercise. The
+   objective now explicitly scopes the study to one farm and two diets (HFD vs
+   LFD), avoiding any claim of generalizability.
+
+2. "foodprints" corrected to "footprints" in the objective sentence.
+
+3. NRC (2001) removed from the reference list — it was in a previous draft but
+   is not cited in any sentence of the current introduction text.
+
+4. Gong et al. (2025) and Reed et al. (2025): placeholders only — insert full
+   citations once confirmed.
+
+5. Buza et al. (2014) and Connor (2015): volume/page numbers could not be fully
+   confirmed via open-access sources — please verify before submission.
+================================================================================

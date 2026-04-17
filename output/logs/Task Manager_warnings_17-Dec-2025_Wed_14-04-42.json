@@ -1,0 +1,561 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "DataValidator._log_missing_data.Validation: key not found in data -- data not required upon initialization": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857106"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857159"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857206"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857251"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857296"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857342"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857353"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857397"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857442"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857486"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857530"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857574"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857619"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857662"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857706"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857750"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857793"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857837"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857881"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857925"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857971"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857981"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858025"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858068"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858112"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858156"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858199"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858240"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858283"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858324"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858366"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858377"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858419"
+      }
+    ],
+    "values": [
+      "Key export_input_data_to_csv not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key input_data_csv_export_path not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key input_data_csv_import_path not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key properties_file_path not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key comparison_properties_file_path not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key convert_variable_table_path not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key variable_name_style not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key exclude_info_maps not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key init_herd not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key save_animals not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key save_animals_directory not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key filters_directory not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key csv_output_directory not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key json_output_directory not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key report_directory not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key graphics_directory not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key logs_directory not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key suppress_log_files not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key run_eee not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key load_saved_output_pools not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key saved_output_pools not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key output_pool_path not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key chunkification not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key save_chunk_threshold_call_count not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key maximum_memory_usage not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key maximum_memory_usage_percent not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key multi_run_counts not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key sampler not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key skip_values not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key sampler_n not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key SA_input_variables not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key SA_load_balancing_start not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None.",
+      "Key SA_load_balancing_stop not found in data. Data value is not required for this variable upon program initialization, setting the variable value to None."
+    ]
+  },
+  "DataValidator._bool_type_validator.Validation: bool variable is not a bool": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857121"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857408"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857453"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857497"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857848"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857892"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857937"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858036"
+      }
+    ],
+    "values": [
+      "Variable: 'export_input_data_to_csv' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].exclude_info_maps' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].init_herd' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].save_animals' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].suppress_log_files' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].run_eee' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].load_saved_output_pools' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].chunkification' has value: 'None', is type: '<class 'NoneType'>'. Violates properties defined in metadata properties section 'tasks_properties'."
+    ]
+  },
+  "DataValidator._fix_data.Validation: invalid data found": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857134"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857183"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857228"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857273"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857318"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857375"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857419"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857464"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857508"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857552"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857597"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857641"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857684"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857728"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857772"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857815"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857859"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857903"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857948"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858004"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858047"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858090"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858135"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858178"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858219"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858262"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858304"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858345"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858398"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858440"
+      }
+    ],
+    "values": [
+      "Variable: 'export_input_data_to_csv' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'input_data_csv_export_path' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'input_data_csv_import_path' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.properties_file_path' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.comparison_properties_file_path' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.variable_name_style' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.exclude_info_maps' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.init_herd' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.save_animals' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.save_animals_directory' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.filters_directory' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.csv_output_directory' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.json_output_directory' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.report_directory' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.graphics_directory' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.logs_directory' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.suppress_log_files' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.run_eee' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.load_saved_output_pools' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.output_pool_path' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.chunkification' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.save_chunk_threshold_call_count' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.maximum_memory_usage' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.maximum_memory_usage_percent' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.multi_run_counts' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.sampler' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.skip_values' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.sampler_n' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.SA_load_balancing_start' has value: None. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.0.SA_load_balancing_stop' has value: None. Violates properties defined in metadata properties section 'tasks_properties'."
+    ]
+  },
+  "DataValidator._fix_data.Validation: data fixed": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857147"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857194"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857240"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857284"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857331"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857386"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857430"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857475"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857519"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857564"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857608"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857652"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857695"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857739"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857783"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857826"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857870"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857914"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857959"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858014"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858058"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858101"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858145"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858188"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858230"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858272"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858314"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858356"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858408"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858450"
+      }
+    ],
+    "values": [
+      "Invalid data fixed: 'export_input_data_to_csv' value changed from None to False. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'input_data_csv_export_path' value changed from None to output/saved_input_data/. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'input_data_csv_import_path' value changed from None to . Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.properties_file_path' value changed from None to input/metadata/properties/default.json. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.comparison_properties_file_path' value changed from None to input/metadata/properties/default.json. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.variable_name_style' value changed from None to basic. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.exclude_info_maps' value changed from None to False. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.init_herd' value changed from None to False. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.save_animals' value changed from None to False. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.save_animals_directory' value changed from None to output/. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.filters_directory' value changed from None to output/output_filters/. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.csv_output_directory' value changed from None to output/CSVs/. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.json_output_directory' value changed from None to output/JSONs/. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.report_directory' value changed from None to output/reports/. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.graphics_directory' value changed from None to output/graphics/. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.logs_directory' value changed from None to output/logs/. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.suppress_log_files' value changed from None to False. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.run_eee' value changed from None to False. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.load_saved_output_pools' value changed from None to False. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.output_pool_path' value changed from None to . Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.chunkification' value changed from None to False. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.save_chunk_threshold_call_count' value changed from None to 0. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.maximum_memory_usage' value changed from None to 0. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.maximum_memory_usage_percent' value changed from None to 80. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.multi_run_counts' value changed from None to 4. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.sampler' value changed from None to sobol. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.skip_values' value changed from None to 0. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.sampler_n' value changed from None to 2. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.SA_load_balancing_start' value changed from None to 0. Fix enabled by default value specified in 'tasks_properties'.",
+      "Invalid data fixed: 'tasks.0.SA_load_balancing_stop' value changed from None to 1. Fix enabled by default value specified in 'tasks_properties'."
+    ]
+  },
+  "DataValidator._string_type_validator.Validation: string variable is not a string": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857171"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857217"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857262"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857307"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857364"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857542"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857586"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857630"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857673"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857717"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857761"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857805"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.857993"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858251"
+      }
+    ],
+    "values": [
+      "Variable: 'input_data_csv_export_path' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'input_data_csv_import_path' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].properties_file_path' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].comparison_properties_file_path' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].variable_name_style' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].save_animals_directory' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].filters_directory' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].csv_output_directory' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].json_output_directory' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].report_directory' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].graphics_directory' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].logs_directory' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].output_pool_path' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].sampler' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'."
+    ]
+  },
+  "DataValidator._number_type_validator.Validation: value is not a number": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858079"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858124"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858167"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858209"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858293"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858335"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858387"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858429"
+      }
+    ],
+    "values": [
+      "Variable: 'tasks.[0].save_chunk_threshold_call_count' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].maximum_memory_usage' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].maximum_memory_usage_percent' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].multi_run_counts' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].skip_values' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].sampler_n' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].SA_load_balancing_start' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'.",
+      "Variable: 'tasks.[0].SA_load_balancing_stop' has value: None, is type: <class 'NoneType'>. Violates properties defined in metadata properties section 'tasks_properties'."
+    ]
+  },
+  "OutputManager._list_filter_files_in_dir.invalid filter file prefix": {
+    "info_maps": [
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.858977"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.859011"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.859028"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.859043"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.859057"
+      },
+      {
+        "timestamp": "17-Dec-2025_Wed_14-04-00.859070"
+      }
+    ],
+    "values": [
+      "_csv_individual_genetics_history.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_csv_daily_population.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_csv_all_variables.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_report_LC.json prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_csv_sold_animal_genetics_history.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']",
+      "_csv_milk_production.txt prefix is not in ['csv_', 'graph_', 'json_', 'report_']"
+    ]
+  }
+}

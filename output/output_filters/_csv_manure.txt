@@ -1,0 +1,2 @@
+AnimalModuleReporter.report_manure_excretions.*
+AnimalModuleReporter.report_manure_streams.*

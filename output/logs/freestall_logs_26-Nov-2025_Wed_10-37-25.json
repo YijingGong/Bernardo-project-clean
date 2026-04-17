@@ -1,0 +1,1401 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "OutputManager.create_directory.Attempting to create a new directory.": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-46.663389"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.606158"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.494477"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.603998"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.609051"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-25.028665"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-25.031275"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-25.031589"
+      }
+    ],
+    "values": [
+      "Attempting to create a new directory at output.",
+      "Attempting to create a new directory at output/logs.",
+      "Attempting to create a new directory at output/CSVs.",
+      "Attempting to create a new directory at output/CSVs.",
+      "Attempting to create a new directory at output/CSVs.",
+      "Attempting to create a new directory at output/logs.",
+      "Attempting to create a new directory at output/logs.",
+      "Attempting to create a new directory at output/logs."
+    ]
+  },
+  "OutputManager.create_directory.Directory successfully created.": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-46.664134"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.607956"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.494785"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.604093"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.609113"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-25.028849"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-25.031316"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-25.031619"
+      }
+    ],
+    "values": [
+      "Created a new directory at output.",
+      "Created a new directory at output/logs.",
+      "Created a new directory at output/CSVs.",
+      "Created a new directory at output/CSVs.",
+      "Created a new directory at output/CSVs.",
+      "Created a new directory at output/logs.",
+      "Created a new directory at output/logs.",
+      "Created a new directory at output/logs."
+    ]
+  },
+  "TaskManager.handle_input_data_audit.Validation start": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Nov-2025_Wed_10-35-46.664281"
+      }
+    ],
+    "values": [
+      "Validating data for input/metadata/example_freestall_dairy_metadata.json..."
+    ]
+  },
+  "InputManager._load_metadata.load_metadata_attempt": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-46.664466"
+      }
+    ],
+    "values": [
+      "Attempting to load metadata from input/metadata/example_freestall_dairy_metadata.json."
+    ]
+  },
+  "InputManager._load_metadata.load_metadata_success": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-46.667376"
+      }
+    ],
+    "values": [
+      "Successfully loaded metadata from input/metadata/example_freestall_dairy_metadata.json"
+    ]
+  },
+  "InputManager._load_properties.load_properties_attempt": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-46.668842"
+      }
+    ],
+    "values": [
+      "Attempting to load properties from input/metadata/properties/default.json"
+    ]
+  },
+  "InputManager._load_data_from_json.open_json_file": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-46.668943"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-46.721557"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-46.730174"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-46.751057"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-50.295538"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.173866"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.393654"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.396611"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.397498"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.405289"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.405989"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.407095"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.408669"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.409407"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.409990"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.410367"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.410675"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.411857"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.413406"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.414012"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.414790"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.565137"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.567139"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.570371"
+      }
+    ],
+    "values": [
+      "Attempting to open input/metadata/properties/default.json.",
+      "Attempting to open input/data/config/example_freestall_config.json.",
+      "Attempting to open input/data/animal/example_freestall_animal.json.",
+      "Attempting to open input/data/animal/animal_population.json.",
+      "Attempting to open input/data/animal/lactation_curve_adjustment_inputs.json.",
+      "Attempting to open input/data/feed/example_Midwest_feed.json.",
+      "Attempting to open input/data/manure/example_freestall_processor_configs.json.",
+      "Attempting to open input/data/manure/example_freestall_processor_connections.json.",
+      "Attempting to open input/data/crop_configurations/default_crop_configs.json.",
+      "Attempting to open input/data/field/example_small_field_corn_alf_silage.json.",
+      "Attempting to open input/data/soil/example_soil.json.",
+      "Attempting to open input/data/crop/example_alf_corn_silage_rotation.json.",
+      "Attempting to open input/data/fertilizer_schedule/example_sm_alf_corn_fertilizer.json.",
+      "Attempting to open input/data/manure_schedule/example_sm_corn_alf_manure_schedule.json.",
+      "Attempting to open input/data/tillage_schedule/no_till.json.",
+      "Attempting to open input/data/field/example_small_field_corn_grain_alf_hay.json.",
+      "Attempting to open input/data/soil/example_soil_2.json.",
+      "Attempting to open input/data/crop/example_alf_hay_corn_grain_rotation.json.",
+      "Attempting to open input/data/fertilizer_schedule/example_sm_alf_corn_fertilizer.json.",
+      "Attempting to open input/data/manure_schedule/example_sm_corn_alf_manure_schedule.json.",
+      "Attempting to open input/data/tillage_schedule/no_till.json.",
+      "Attempting to open input/data/EEE/constants.json.",
+      "Attempting to open input/data/feed_management/example_feed_storage_configs.json.",
+      "Attempting to open input/data/feed_management/example_freestall_feed_storages.json."
+    ]
+  },
+  "InputManager._load_data_from_json.load_data_successful": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-46.676974"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-46.724279"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-46.731345"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-47.170994"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-50.297172"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.179614"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.394269"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.396960"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.398407"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.405805"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.406469"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.407281"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.408913"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.409572"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.410274"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.410514"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.411027"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.412067"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.413542"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.414124"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.414944"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.566081"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.568181"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.570751"
+      }
+    ],
+    "values": [
+      "Successfully loaded data from input/metadata/properties/default.json.",
+      "Successfully loaded data from input/data/config/example_freestall_config.json.",
+      "Successfully loaded data from input/data/animal/example_freestall_animal.json.",
+      "Successfully loaded data from input/data/animal/animal_population.json.",
+      "Successfully loaded data from input/data/animal/lactation_curve_adjustment_inputs.json.",
+      "Successfully loaded data from input/data/feed/example_Midwest_feed.json.",
+      "Successfully loaded data from input/data/manure/example_freestall_processor_configs.json.",
+      "Successfully loaded data from input/data/manure/example_freestall_processor_connections.json.",
+      "Successfully loaded data from input/data/crop_configurations/default_crop_configs.json.",
+      "Successfully loaded data from input/data/field/example_small_field_corn_alf_silage.json.",
+      "Successfully loaded data from input/data/soil/example_soil.json.",
+      "Successfully loaded data from input/data/crop/example_alf_corn_silage_rotation.json.",
+      "Successfully loaded data from input/data/fertilizer_schedule/example_sm_alf_corn_fertilizer.json.",
+      "Successfully loaded data from input/data/manure_schedule/example_sm_corn_alf_manure_schedule.json.",
+      "Successfully loaded data from input/data/tillage_schedule/no_till.json.",
+      "Successfully loaded data from input/data/field/example_small_field_corn_grain_alf_hay.json.",
+      "Successfully loaded data from input/data/soil/example_soil_2.json.",
+      "Successfully loaded data from input/data/crop/example_alf_hay_corn_grain_rotation.json.",
+      "Successfully loaded data from input/data/fertilizer_schedule/example_sm_alf_corn_fertilizer.json.",
+      "Successfully loaded data from input/data/manure_schedule/example_sm_corn_alf_manure_schedule.json.",
+      "Successfully loaded data from input/data/tillage_schedule/no_till.json.",
+      "Successfully loaded data from input/data/EEE/constants.json.",
+      "Successfully loaded data from input/data/feed_management/example_feed_storage_configs.json.",
+      "Successfully loaded data from input/data/feed_management/example_freestall_feed_storages.json."
+    ]
+  },
+  "InputManager._load_properties.load_properties_success": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-46.677219"
+      }
+    ],
+    "values": [
+      "Successfully loaded properties from input/metadata/properties/default.json"
+    ]
+  },
+  "InputManager._load_data_from_csv.open_csv_file": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-50.204707"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-50.287666"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-50.298870"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-50.300529"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-50.301733"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-54.303937"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.181644"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.244639"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.415057"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.499135"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.522837"
+      }
+    ],
+    "values": [
+      "Attempting to open input/data/animal_genetics/average_phenotype.csv.",
+      "Attempting to open input/data/animal_genetics/TopListingSemen_HO.csv.",
+      "Attempting to open input/data/EEE/default_costs.csv.",
+      "Attempting to open input/data/EEE/default_emissions.csv.",
+      "Attempting to open input/data/EEE/full_feeds_emissions_July2024_interpolated_regional_average.csv.",
+      "Attempting to open input/data/EEE/full_feeds_land_use_change_emissions_July2024_interpolated_regional_average.csv.",
+      "Attempting to open input/data/feed/NRC_comp.csv.",
+      "Attempting to open input/data/feed/NASEM_Comp_with_TDN.csv.",
+      "Attempting to open input/data/weather/example_temperate_weather.csv.",
+      "Attempting to open input/data/feed/user_feeds.csv.",
+      "Attempting to open input/data/EEE/tractor_dataset.csv."
+    ]
+  },
+  "InputManager._load_data_from_csv.load_data_successful": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-50.286083"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-50.291180"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-50.300390"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-50.301617"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-50.444775"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-54.501987"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.208454"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.265610"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-58.439654"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.509088"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.535465"
+      }
+    ],
+    "values": [
+      "Successfully loaded data from input/data/animal_genetics/average_phenotype.csv.",
+      "Successfully loaded data from input/data/animal_genetics/TopListingSemen_HO.csv.",
+      "Successfully loaded data from input/data/EEE/default_costs.csv.",
+      "Successfully loaded data from input/data/EEE/default_emissions.csv.",
+      "Successfully loaded data from input/data/EEE/full_feeds_emissions_July2024_interpolated_regional_average.csv.",
+      "Successfully loaded data from input/data/EEE/full_feeds_land_use_change_emissions_July2024_interpolated_regional_average.csv.",
+      "Successfully loaded data from input/data/feed/NRC_comp.csv.",
+      "Successfully loaded data from input/data/feed/NASEM_Comp_with_TDN.csv.",
+      "Successfully loaded data from input/data/weather/example_temperate_weather.csv.",
+      "Successfully loaded data from input/data/feed/user_feeds.csv.",
+      "Successfully loaded data from input/data/EEE/tractor_dataset.csv."
+    ]
+  },
+  "DataValidator.validate_metadata.Metadata Validation": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.572010"
+      }
+    ],
+    "values": [
+      "Top level metadata is valid."
+    ]
+  },
+  "DataValidator.validate_properties.Metadata properties depth": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.572057"
+      }
+    ],
+    "values": [
+      "Max depth of metadata properties is 7"
+    ]
+  },
+  "DataValidator.validate_properties.Metadata properties path": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.572082"
+      }
+    ],
+    "values": [
+      "Deepest path of metadata properties is ['animal_properties', 'animal_config', 'from_literature', 'culling', 'unknown_cull', 'cull_day_prob', 'properties']"
+    ]
+  },
+  "TaskManager.handle_input_data_audit.Validation complete": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Nov-2025_Wed_10-35-59.573595"
+      }
+    ],
+    "values": [
+      "freestall validation status: True"
+    ]
+  },
+  "TaskManager.handle_input_data_audit.Saving metadata properties": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Nov-2025_Wed_10-35-59.574001"
+      }
+    ],
+    "values": [
+      "Saving metadata properties input/metadata/example_freestall_dairy_metadata.json at output/logs"
+    ]
+  },
+  "InputManager.save_metadata_properties.CSV save attempt.": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.606013"
+      }
+    ],
+    "values": [
+      "Attempting to save metadata properties as CSV to output/logs/freestall_InputManager_metadata_properties_26-Nov-2025_Wed_10-35-59.csv"
+    ]
+  },
+  "InputManager.save_metadata_properties.Save CSV success.": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.646435"
+      }
+    ],
+    "values": [
+      "Successfully saved to output/logs/freestall_InputManager_metadata_properties_26-Nov-2025_Wed_10-35-59.csv."
+    ]
+  },
+  "OutputManager._list_filter_files_in_dir.search_path_for_filenames_try": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.646914"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.485892"
+      }
+    ],
+    "values": [
+      "Attempting to search in output/output_filters.",
+      "Attempting to search in output/output_filters."
+    ]
+  },
+  "OutputManager._list_filter_files_in_dir.search_path_for_filenames_success": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.648142"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.487695"
+      }
+    ],
+    "values": [
+      "Successfully searched in output/output_filters and found 3 filter files.",
+      "Successfully searched in output/output_filters and found 3 filter files."
+    ]
+  },
+  "OutputManager._load_filter_file_content.open_filter_file": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.648253"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.649080"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.649455"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.487779"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.598098"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.604283"
+      }
+    ],
+    "values": [
+      "Attempting to open output/output_filters/csv_herd_genetics.txt.",
+      "Attempting to open output/output_filters/csv_milk_production.txt.",
+      "Attempting to open output/output_filters/csv_individual_genetics_history.txt.",
+      "Attempting to open output/output_filters/csv_herd_genetics.txt.",
+      "Attempting to open output/output_filters/csv_milk_production.txt.",
+      "Attempting to open output/output_filters/csv_individual_genetics_history.txt."
+    ]
+  },
+  "OutputManager._load_filter_file_content.text_file_load_log": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.649006"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.649344"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.649698"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.489631"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.599270"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.604718"
+      }
+    ],
+    "values": [
+      "Successfully opened output/output_filters/csv_herd_genetics.txt.",
+      "Successfully opened output/output_filters/csv_milk_production.txt.",
+      "Successfully opened output/output_filters/csv_individual_genetics_history.txt.",
+      "Successfully opened output/output_filters/csv_herd_genetics.txt.",
+      "Successfully opened output/output_filters/csv_milk_production.txt.",
+      "Successfully opened output/output_filters/csv_individual_genetics_history.txt."
+    ]
+  },
+  "TaskManager.set_random_seed.Random seed received": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Nov-2025_Wed_10-35-59.649768"
+      }
+    ],
+    "values": [
+      "Received 42 as random seed."
+    ]
+  },
+  "TaskManager.set_random_seed.Random seed used": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Nov-2025_Wed_10-35-59.653343"
+      }
+    ],
+    "values": [
+      "Seeded libaries with random_seed=42"
+    ]
+  },
+  "TaskManager.handle_herd_initializaition.Herd initialization start": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Nov-2025_Wed_10-35-59.653745"
+      }
+    ],
+    "values": [
+      "Initializing herd data..."
+    ]
+  },
+  "LactationCurve.__init__.Annual milk yield not provided to simulation": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-35-59.664602"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-15.706731"
+      }
+    ],
+    "values": [
+      "Lactation curve parameters will not be fit to the target milk production.",
+      "Lactation curve parameters will not be fit to the target milk production."
+    ]
+  },
+  "TaskManager.handle_herd_initializaition.Herd initialization complete": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Nov-2025_Wed_10-36-15.193530"
+      }
+    ],
+    "values": [
+      "Herd data initialized."
+    ]
+  },
+  "TaskManager.handle_single_simulation_run.Starting the simulation": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Nov-2025_Wed_10-36-15.384834"
+      }
+    ],
+    "values": [
+      "Starting the simulation"
+    ]
+  },
+  "UserDefinedRationManager.set_user_defined_rations.growing_and_close_up_user_defined_rations": {
+    "info_maps": [
+      {
+        "ration": {
+          "50": 37.45,
+          "110": 17.65,
+          "104": 0.37,
+          "44": 15.31,
+          "301": 3.27,
+          "302": 25.21,
+          "23": 0.74
+        },
+        "animal_combination": "lac_cow",
+        "units": "percent",
+        "timestamp": "26-Nov-2025_Wed_10-36-15.707792"
+      }
+    ],
+    "values": [
+      "Pens with growing and close-up cows will use the user-defined ration for close-up pens"
+    ]
+  },
+  "HerdManager.set_milk_type_in_calf_ration_manager.Milk type set for calf ration": {
+    "info_maps": [
+      {
+        "milk_type": "whole",
+        "calf_ration": {
+          "202": 50,
+          "216": 50
+        },
+        "timestamp": "26-Nov-2025_Wed_10-36-15.707886"
+      }
+    ],
+    "values": [
+      "Calf requirements routines will assume 100% of calves' milk intake is whole"
+    ]
+  },
+  "HerdManager._print_animal_num_warnings.simulate_animals_flag": {
+    "info_maps": [
+      {
+        "simulate_animals": true,
+        "herd_data_animal_nums": {
+          "heiferI_num": 44,
+          "heiferII_num": 38,
+          "calf_num": 8,
+          "heiferIII_num_springers": 5,
+          "cow_num": 100
+        },
+        "timestamp": "26-Nov-2025_Wed_10-36-15.724674"
+      }
+    ],
+    "values": [
+      "simulate_animals is true"
+    ]
+  },
+  "Pen.formulate_optimized_ration.User defined ration used for non lactating cow pen after failed formulation attempt.": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-16.464346"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-16.567614"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-19.730492"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-19.748958"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-24.685626"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-24.746157"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-28.118593"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-28.396218"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-31.852466"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-31.869832"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-33.968149"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-34.044901"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-36.175488"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-36.217988"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-38.398470"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-38.575406"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-40.503028"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-40.551139"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-42.482987"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-42.573993"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-45.236355"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-45.260963"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-47.322108"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-47.443222"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-49.572680"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-49.938479"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-52.405598"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-52.519259"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-54.536737"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-54.554949"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-57.351050"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-57.363709"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-59.889279"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-36-59.909368"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-03.013726"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-03.114157"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-05.080072"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-05.157179"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-07.013164"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-07.048918"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-09.536729"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-09.602039"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-12.369264"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-12.433446"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-14.551755"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-14.621076"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-17.779615"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-17.821621"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-20.115284"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-20.186192"
+      }
+    ],
+    "values": [
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_1 to see what caused formulation to fail. ",
+      "Check failed_constraint_summary_for_pen_2 to see what caused formulation to fail. "
+    ]
+  },
+  "type.estimate_all.Emissions Processing": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-22.922524"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.262542"
+      }
+    ],
+    "values": [
+      "Starting processing of emissions.",
+      "Completed processing of emissions."
+    ]
+  },
+  "OutputManager.filter_variables_pool.filtering_log": {
+    "info_maps": [
+      {
+        "filter_name": "RufasTime Filter",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.223911"
+      },
+      {
+        "filter_name": "Homegrown Feeds",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.228478"
+      },
+      {
+        "filter_name": "Fertilizer Applications",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.231953"
+      },
+      {
+        "filter_name": "Manure Applications",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.234676"
+      },
+      {
+        "filter_name": "Manure Requests",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.237331"
+      },
+      {
+        "filter_name": "Soil Ammonia emissions",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.240014"
+      },
+      {
+        "filter_name": "Soil Nitrous Oxide emissions",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.242679"
+      },
+      {
+        "filter_name": "Starting soil profile carbon stock",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.245374"
+      },
+      {
+        "filter_name": "Ending soil profile carbon stock",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.248034"
+      },
+      {
+        "filter_name": "Soil Ammonia emissions",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.250935"
+      },
+      {
+        "filter_name": "Soil Nitrous Oxide emissions",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.253934"
+      },
+      {
+        "filter_name": "Starting soil profile carbon stock",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.256783"
+      },
+      {
+        "filter_name": "Ending soil profile carbon stock",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.259453"
+      },
+      {
+        "filter_name": "Fertilizer Application",
+        "filter_by_exclusion": false,
+        "use_filter_name": true,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.262599"
+      },
+      {
+        "filter_name": "Tilling",
+        "filter_by_exclusion": false,
+        "use_filter_name": true,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.265806"
+      },
+      {
+        "filter_name": "Manure Application",
+        "filter_by_exclusion": false,
+        "use_filter_name": true,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.268437"
+      },
+      {
+        "filter_name": "Harvest",
+        "filter_by_exclusion": false,
+        "use_filter_name": true,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.271097"
+      },
+      {
+        "filter_name": "Planting",
+        "filter_by_exclusion": false,
+        "use_filter_name": true,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.274280"
+      },
+      {
+        "filter_name": "NO NAME FOUND",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.489669"
+      },
+      {
+        "filter_name": "NO NAME FOUND",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.599790"
+      },
+      {
+        "filter_name": "NO NAME FOUND",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.604791"
+      }
+    ],
+    "values": [
+      "Performing filtering by inclusion per filter's contents. filter_name='RufasTime Filter'",
+      "Performing filtering by inclusion per filter's contents. filter_name='Homegrown Feeds'",
+      "Performing filtering by inclusion per filter's contents. filter_name='Fertilizer Applications'",
+      "Performing filtering by inclusion per filter's contents. filter_name='Manure Applications'",
+      "Performing filtering by inclusion per filter's contents. filter_name='Manure Requests'",
+      "Performing filtering by inclusion per filter's contents. filter_name='Soil Ammonia emissions'",
+      "Performing filtering by inclusion per filter's contents. filter_name='Soil Nitrous Oxide emissions'",
+      "Performing filtering by inclusion per filter's contents. filter_name='Starting soil profile carbon stock'",
+      "Performing filtering by inclusion per filter's contents. filter_name='Ending soil profile carbon stock'",
+      "Performing filtering by inclusion per filter's contents. filter_name='Soil Ammonia emissions'",
+      "Performing filtering by inclusion per filter's contents. filter_name='Soil Nitrous Oxide emissions'",
+      "Performing filtering by inclusion per filter's contents. filter_name='Starting soil profile carbon stock'",
+      "Performing filtering by inclusion per filter's contents. filter_name='Ending soil profile carbon stock'",
+      "Performing filtering by inclusion per filter's contents. filter_name=<FieldOperationEvent.FERTILIZER_APPLICATION: 'Fertilizer Application'>",
+      "Performing filtering by inclusion per filter's contents. filter_name=<FieldOperationEvent.TILLING: 'Tilling'>",
+      "Performing filtering by inclusion per filter's contents. filter_name=<FieldOperationEvent.MANURE_APPLICATION: 'Manure Application'>",
+      "Performing filtering by inclusion per filter's contents. filter_name=<FieldOperationEvent.HARVEST: 'Harvest'>",
+      "Performing filtering by inclusion per filter's contents. filter_name=<FieldOperationEvent.PLANTING: 'Planting'>",
+      "Performing filtering by inclusion per filter's contents. filter_name='NO NAME FOUND'",
+      "Performing filtering by inclusion per filter's contents. filter_name='NO NAME FOUND'",
+      "Performing filtering by inclusion per filter's contents. filter_name='NO NAME FOUND'"
+    ]
+  },
+  "OutputManager.filter_variables_pool.num_filter_pattern_matches": {
+    "info_maps": [
+      {
+        "filter_name": "RufasTime Filter",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.228178"
+      },
+      {
+        "filter_name": "Homegrown Feeds",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.231156"
+      },
+      {
+        "filter_name": "Fertilizer Applications",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.234650"
+      },
+      {
+        "filter_name": "Manure Applications",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.237308"
+      },
+      {
+        "filter_name": "Manure Requests",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.239954"
+      },
+      {
+        "filter_name": "Soil Ammonia emissions",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.242661"
+      },
+      {
+        "filter_name": "Soil Nitrous Oxide emissions",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.245356"
+      },
+      {
+        "filter_name": "Starting soil profile carbon stock",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.248017"
+      },
+      {
+        "filter_name": "Ending soil profile carbon stock",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.250881"
+      },
+      {
+        "filter_name": "Soil Ammonia emissions",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.253872"
+      },
+      {
+        "filter_name": "Soil Nitrous Oxide emissions",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.256756"
+      },
+      {
+        "filter_name": "Starting soil profile carbon stock",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.259433"
+      },
+      {
+        "filter_name": "Ending soil profile carbon stock",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.262073"
+      },
+      {
+        "filter_name": "Fertilizer Application",
+        "filter_by_exclusion": false,
+        "use_filter_name": true,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.265311"
+      },
+      {
+        "filter_name": "Tilling",
+        "filter_by_exclusion": false,
+        "use_filter_name": true,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.268415"
+      },
+      {
+        "filter_name": "Manure Application",
+        "filter_by_exclusion": false,
+        "use_filter_name": true,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.271079"
+      },
+      {
+        "filter_name": "Harvest",
+        "filter_by_exclusion": false,
+        "use_filter_name": true,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.273703"
+      },
+      {
+        "filter_name": "Planting",
+        "filter_by_exclusion": false,
+        "use_filter_name": true,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.276898"
+      },
+      {
+        "filter_name": "NO NAME FOUND",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.492690"
+      },
+      {
+        "filter_name": "NO NAME FOUND",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.603855"
+      },
+      {
+        "filter_name": "NO NAME FOUND",
+        "filter_by_exclusion": false,
+        "use_filter_name": false,
+        "timestamp": "26-Nov-2025_Wed_10-37-23.608938"
+      }
+    ],
+    "values": [
+      "There were 2 matches for filter pattern(s) in filter_name='RufasTime Filter'.",
+      "There were 2 matches for filter pattern(s) in filter_name='Homegrown Feeds'.",
+      "There were 0 matches for filter pattern(s) in filter_name='Fertilizer Applications'.",
+      "There were 0 matches for filter pattern(s) in filter_name='Manure Applications'.",
+      "There were 0 matches for filter pattern(s) in filter_name='Manure Requests'.",
+      "There were 0 matches for filter pattern(s) in filter_name='Soil Ammonia emissions'.",
+      "There were 0 matches for filter pattern(s) in filter_name='Soil Nitrous Oxide emissions'.",
+      "There were 0 matches for filter pattern(s) in filter_name='Starting soil profile carbon stock'.",
+      "There were 0 matches for filter pattern(s) in filter_name='Ending soil profile carbon stock'.",
+      "There were 0 matches for filter pattern(s) in filter_name='Soil Ammonia emissions'.",
+      "There were 0 matches for filter pattern(s) in filter_name='Soil Nitrous Oxide emissions'.",
+      "There were 0 matches for filter pattern(s) in filter_name='Starting soil profile carbon stock'.",
+      "There were 0 matches for filter pattern(s) in filter_name='Ending soil profile carbon stock'.",
+      "There were 0 matches for filter pattern(s) in filter_name=<FieldOperationEvent.FERTILIZER_APPLICATION: 'Fertilizer Application'>.",
+      "There were 0 matches for filter pattern(s) in filter_name=<FieldOperationEvent.TILLING: 'Tilling'>.",
+      "There were 0 matches for filter pattern(s) in filter_name=<FieldOperationEvent.MANURE_APPLICATION: 'Manure Application'>.",
+      "There were 2 matches for filter pattern(s) in filter_name=<FieldOperationEvent.HARVEST: 'Harvest'>.",
+      "There were 2 matches for filter pattern(s) in filter_name=<FieldOperationEvent.PLANTING: 'Planting'>.",
+      "There were 6 matches for filter pattern(s) in filter_name='NO NAME FOUND'.",
+      "There were 0 matches for filter pattern(s) in filter_name='NO NAME FOUND'.",
+      "There were 1 matches for filter pattern(s) in filter_name='NO NAME FOUND'."
+    ]
+  },
+  "type.estimate_all.Energy Processing": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.262558"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.376126"
+      }
+    ],
+    "values": [
+      "Starting processing of energy.",
+      "Completed processing of energy."
+    ]
+  },
+  "SimulationEngine.simulate.Simulation complete": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.376176"
+      }
+    ],
+    "values": [
+      "Simulation Completed."
+    ]
+  },
+  "SimulationEngine.simulate.total_simulation_time": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.376208"
+      }
+    ],
+    "values": [
+      "Total simulation time is: 67.06802725791931"
+    ]
+  },
+  "TaskManager.handle_single_simulation_run.Simulation completed": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Nov-2025_Wed_10-37-23.376238"
+      }
+    ],
+    "values": [
+      "Simulation completed"
+    ]
+  },
+  "TaskManager.handle_post_processing.Validation counts": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "26-Nov-2025_Wed_10-37-23.438967"
+      }
+    ],
+    "values": [
+      "{'valid_elements': 1361974, 'invalid_elements': 0, 'fixed_elements': 8, 'total_elements': 1361982}"
+    ]
+  },
+  "InputManager.flush_pool.Clear variable pool": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.485384"
+      }
+    ],
+    "values": [
+      "The pool is emptied."
+    ]
+  },
+  "OutputManager.save_results.exclude_info_maps": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.485483"
+      }
+    ],
+    "values": [
+      "exclude_info_maps flag set to False"
+    ]
+  },
+  "OutputManager._dict_to_file_csv.save_dict_file_try": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.494837"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.597308"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.604206"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.604225"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-23.609208"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-25.023689"
+      }
+    ],
+    "values": [
+      "Attempting to save to output/CSVs/freestall_saved_variables_csv_herd_genetics.txt_26-Nov-2025_Wed_10-37-23.csv.",
+      "Successfully saved to output/CSVs/freestall_saved_variables_csv_herd_genetics.txt_26-Nov-2025_Wed_10-37-23.csv.",
+      "Attempting to save to output/CSVs/freestall_saved_variables_csv_milk_production.txt_26-Nov-2025_Wed_10-37-23.csv.",
+      "Nothing to save to output/CSVs/freestall_saved_variables_csv_milk_production.txt_26-Nov-2025_Wed_10-37-23.csv. Data dictionary is empty.",
+      "Attempting to save to output/CSVs/freestall_saved_variables_csv_individual_genetics_history.txt_26-Nov-2025_Wed_10-37-23.csv.",
+      "Successfully saved to output/CSVs/freestall_saved_variables_csv_individual_genetics_history.txt_26-Nov-2025_Wed_10-37-23.csv."
+    ]
+  },
+  "OutputManager.dict_to_file_json.save_dict_file_try": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-25.029001"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-25.031363"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-25.052831"
+      }
+    ],
+    "values": [
+      "Attempting to save to output/logs/freestall_InputManager_get_data_log_26-Nov-2025_Wed_10-37-25.json.",
+      "Attempting to save to output/logs/freestall_InputManager_delete_data_log_26-Nov-2025_Wed_10-37-25.json.",
+      "Attempting to save to output/logs/freestall_logs_26-Nov-2025_Wed_10-37-25.json."
+    ]
+  },
+  "OutputManager.dict_to_file_json.save_dict_file_success": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-25.031130"
+      },
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-25.031498"
+      }
+    ],
+    "values": [
+      "Successfully saved to output/logs/freestall_InputManager_get_data_log_26-Nov-2025_Wed_10-37-25.json.",
+      "Successfully saved to output/logs/freestall_InputManager_delete_data_log_26-Nov-2025_Wed_10-37-25.json."
+    ]
+  },
+  "OutputManager._list_to_file_txt.save_txt_file_try": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-25.048721"
+      }
+    ],
+    "values": [
+      "Attempting to save to output/logs/freestall_variable_names_26-Nov-2025_Wed_10-37-25.txt."
+    ]
+  },
+  "OutputManager._list_to_file_txt.save_txt_file_success": {
+    "info_maps": [
+      {
+        "timestamp": "26-Nov-2025_Wed_10-37-25.051986"
+      }
+    ],
+    "values": [
+      "Successfully saved to output/logs/freestall_variable_names_26-Nov-2025_Wed_10-37-25.txt."
+    ]
+  }
+}

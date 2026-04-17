@@ -1,0 +1,362 @@
+{
+  "DISCLAIMER": "Under construction, use the results with caution.",
+  "OutputManager.create_directory.Attempting to create a new directory.": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.899756"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-33-05.725071"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-33-05.736771"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-33-05.737276"
+      }
+    ],
+    "values": [
+      "Attempting to create a new directory at output.",
+      "Attempting to create a new directory at output/logs.",
+      "Attempting to create a new directory at output/logs.",
+      "Attempting to create a new directory at output/logs."
+    ]
+  },
+  "OutputManager.create_directory.Directory successfully created.": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.899837"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-33-05.726586"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-33-05.736861"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-33-05.737308"
+      }
+    ],
+    "values": [
+      "Created a new directory at output.",
+      "Created a new directory at output/logs.",
+      "Created a new directory at output/logs.",
+      "Created a new directory at output/logs."
+    ]
+  },
+  "TaskManager.start.Task Manager Start": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.937048"
+      }
+    ],
+    "values": [
+      "Task Manager Started."
+    ]
+  },
+  "InputManager._load_metadata.load_metadata_attempt": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.937176"
+      }
+    ],
+    "values": [
+      "Attempting to load metadata from input/task_manager_metadata.json."
+    ]
+  },
+  "InputManager._load_metadata.load_metadata_success": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.939571"
+      }
+    ],
+    "values": [
+      "Successfully loaded metadata from input/task_manager_metadata.json"
+    ]
+  },
+  "InputManager._load_properties.load_properties_attempt": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.940026"
+      }
+    ],
+    "values": [
+      "Attempting to load properties from dict_values([PosixPath('input/metadata/properties/default.json'), PosixPath('input/metadata/properties/tasks_properties.json'), PosixPath('input/metadata/properties/commodity_properties.json')])"
+    ]
+  },
+  "InputManager._load_data_from_json.open_json_file": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.940067"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.942597"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.943258"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.992059"
+      }
+    ],
+    "values": [
+      "Attempting to open input/metadata/properties/default.json.",
+      "Attempting to open input/metadata/properties/tasks_properties.json.",
+      "Attempting to open input/metadata/properties/commodity_properties.json.",
+      "Attempting to open input/data/tasks/example_freestall_task.json."
+    ]
+  },
+  "InputManager._load_data_from_json.load_data_successful": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.942421"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.943204"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.947750"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.992565"
+      }
+    ],
+    "values": [
+      "Successfully loaded data from input/metadata/properties/default.json.",
+      "Successfully loaded data from input/metadata/properties/tasks_properties.json.",
+      "Successfully loaded data from input/metadata/properties/commodity_properties.json.",
+      "Successfully loaded data from input/data/tasks/example_freestall_task.json."
+    ]
+  },
+  "InputManager._load_properties.load_properties_success": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.947878"
+      }
+    ],
+    "values": [
+      "Successfully loaded properties from dict_values([PosixPath('input/metadata/properties/default.json'), PosixPath('input/metadata/properties/tasks_properties.json'), PosixPath('input/metadata/properties/commodity_properties.json')])"
+    ]
+  },
+  "DataValidator.validate_metadata.Metadata Validation": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.993291"
+      }
+    ],
+    "values": [
+      "Top level metadata is valid."
+    ]
+  },
+  "DataValidator.validate_properties.Metadata properties depth": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.993314"
+      }
+    ],
+    "values": [
+      "Max depth of metadata properties is 7"
+    ]
+  },
+  "DataValidator.validate_properties.Metadata properties path": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.993330"
+      }
+    ],
+    "values": [
+      "Deepest path of metadata properties is ['animal_properties', 'animal_config', 'from_literature', 'culling', 'unknown_cull', 'cull_day_prob', 'properties']"
+    ]
+  },
+  "OutputManager._list_filter_files_in_dir.search_path_for_filenames_try": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.994822"
+      }
+    ],
+    "values": [
+      "Attempting to search in output/output_filters."
+    ]
+  },
+  "OutputManager._list_filter_files_in_dir.search_path_for_filenames_success": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.995581"
+      }
+    ],
+    "values": [
+      "Successfully searched in output/output_filters and found 5 filter files."
+    ]
+  },
+  "OutputManager._load_filter_file_content.open_filter_file": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.995623"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.996122"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.996812"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.997251"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.997596"
+      }
+    ],
+    "values": [
+      "Attempting to open output/output_filters/csv_daily_herd_statistics.txt.",
+      "Attempting to open output/output_filters/csv_manure.txt.",
+      "Attempting to open output/output_filters/csv_herd_genetics.txt.",
+      "Attempting to open output/output_filters/csv_individual_milk.txt.",
+      "Attempting to open output/output_filters/csv_daily_population.txt."
+    ]
+  },
+  "OutputManager._load_filter_file_content.text_file_load_log": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.996036"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.996746"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.997172"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.997543"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.997899"
+      }
+    ],
+    "values": [
+      "Successfully opened output/output_filters/csv_daily_herd_statistics.txt.",
+      "Successfully opened output/output_filters/csv_manure.txt.",
+      "Successfully opened output/output_filters/csv_herd_genetics.txt.",
+      "Successfully opened output/output_filters/csv_individual_milk.txt.",
+      "Successfully opened output/output_filters/csv_daily_population.txt."
+    ]
+  },
+  "OutputManager.validate_filter_content.Filter validations skipped.": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.996077"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.996773"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.997206"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.997564"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.997922"
+      }
+    ],
+    "values": [
+      "Filter validation is not supported forcsv_daily_herd_statistics.txt.",
+      "Filter validation is not supported forcsv_manure.txt.",
+      "Filter validation is not supported forcsv_herd_genetics.txt.",
+      "Filter validation is not supported forcsv_individual_milk.txt.",
+      "Filter validation is not supported forcsv_daily_population.txt."
+    ]
+  },
+  "TaskManager.start.Task Manager workers": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-52.997941"
+      }
+    ],
+    "values": [
+      "Task Manager is going to run 4 in parallel."
+    ]
+  },
+  "TaskManager.start.Task Manager parsed tasks": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-53.541602"
+      }
+    ],
+    "values": [
+      "Parsed 1 tasks args."
+    ]
+  },
+  "TaskManager.start.Task Manager expanded tasks": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-32-53.542590"
+      }
+    ],
+    "values": [
+      "Expanded task args to 1. Starting the tasks..."
+    ]
+  },
+  "TaskManager.handle_post_processing.Validation counts": {
+    "info_maps": [
+      {
+        "units": "unitless",
+        "timestamp": "08-Apr-2026_Wed_21-33-05.720601"
+      }
+    ],
+    "values": [
+      "{'valid_elements': 9, 'invalid_elements': 0, 'fixed_elements': 30, 'total_elements': 39}"
+    ]
+  },
+  "OutputManager.dict_to_file_json.save_dict_file_try": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-33-05.727109"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-33-05.736942"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-33-05.738854"
+      }
+    ],
+    "values": [
+      "Attempting to save to output/logs/Task Manager_InputManager_get_data_log_08-Apr-2026_Wed_21-33-05.json.",
+      "Attempting to save to output/logs/Task Manager_InputManager_delete_data_log_08-Apr-2026_Wed_21-33-05.json.",
+      "Attempting to save to output/logs/Task Manager_logs_08-Apr-2026_Wed_21-33-05.json."
+    ]
+  },
+  "OutputManager.dict_to_file_json.save_dict_file_success": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-33-05.736293"
+      },
+      {
+        "timestamp": "08-Apr-2026_Wed_21-33-05.737182"
+      }
+    ],
+    "values": [
+      "Successfully saved to output/logs/Task Manager_InputManager_get_data_log_08-Apr-2026_Wed_21-33-05.json.",
+      "Successfully saved to output/logs/Task Manager_InputManager_delete_data_log_08-Apr-2026_Wed_21-33-05.json."
+    ]
+  },
+  "OutputManager._list_to_file_txt.save_txt_file_try": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-33-05.737419"
+      }
+    ],
+    "values": [
+      "Attempting to save to output/logs/Task Manager_variable_names_08-Apr-2026_Wed_21-33-05.txt."
+    ]
+  },
+  "OutputManager._list_to_file_txt.save_txt_file_success": {
+    "info_maps": [
+      {
+        "timestamp": "08-Apr-2026_Wed_21-33-05.738563"
+      }
+    ],
+    "values": [
+      "Successfully saved to output/logs/Task Manager_variable_names_08-Apr-2026_Wed_21-33-05.txt."
+    ]
+  }
+}
