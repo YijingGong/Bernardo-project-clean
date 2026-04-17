@@ -1,11 +1,7 @@
 # RUFAS .gitignore
 
 # ignore text files
-*.txt
-*.txt#
 !requirements.txt
-*.doc
-*.docx
 
 # ignore log files
 *.log
@@ -27,12 +23,9 @@ input/data/tasks/default_task.json
 # Ignore contents of output directories, except for .keep files
 # This is because we want to keep the output directories, and git
 # only stores non-empty directories
-output/*
 !output/.keep
 !output/graphics/
-output/graphics/*
 !output/output_filters/
-output/output_filters/*
 !output/output_filters/report_example.json
 !output/output_filters/_csv_all_variables.txt
 
